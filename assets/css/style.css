@@ -11,3 +11,59 @@ body {
     font-weight: 300;
 }
 
+h2 {
+    font-family: Molle, cursive;
+}
+
+/* header */
+
+header {
+    background-color: #dff2f7;
+}
+
+.right {
+    float: right;
+}
+
+#logo {
+    font-family: Molle, cursive;
+    color: #FFAB4A;
+    font-size: 300%;
+    margin-left: 20px;
+    line-height: 75px;
+    padding-right: 0;
+}
+
+#logo, a {
+    text-decoration: none;
+}
+/* nav menu */
+
+.left {
+    float: left;
+}
+
+#menu {
+    line-height: 75px;
+}
+
+#menu li {
+    list-style-type: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    text-align: left;
+    display: inline-block;
+}
+
+#menu a {
+    text-decoration: none;
+    border: solid 1px #FFAB4A;
+    color: #FFAB4A;
+    padding: 10px;
+    font-weight: 400;
+}
+
+.clear {
+    clear: both;
+}
