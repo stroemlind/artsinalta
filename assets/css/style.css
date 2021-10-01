@@ -64,6 +64,11 @@ header {
     font-weight: 400;
 }
 
+#menu li a:hover {
+    background-color: #FFAB4A;
+    color: aliceblue;
+}
+
 .clear {
     clear: both;
 }
