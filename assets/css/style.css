@@ -1,14 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Molle:ital@1&family=Montserrat:wght@300;400;500&display=swap');
 
+/*
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
+*/
 
 body {
     font-family: Monserrat, sans-serif;
     font-weight: 300;
+    margin: 0;
+    border: 0;
+    padding: 0;
+
 }
 
 h2 {
@@ -71,4 +77,60 @@ header {
 
 .clear {
     clear: both;
+}
+
+/* About top section */
+
+#about {
+    width: 100%;
+    height: 500px;
+}
+
+#about-left-top {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+#paintbrush {
+    width: 100%;
+    height: 100%;
+}
+
+#about-right-top {
+    margin-left: 50%;
+    height: 500px;
+}
+
+.about-heading {
+    text-align: center;
+    font-size: 300%;
+    padding-top: 112px;
+    margin: 0 0 40px 0;
+}
+
+.about-p {
+    text-align: justify;
+    padding: 0 40px;
+}
+
+/* About bottom section */
+
+#about-bottom {
+    width: 100%;
+    height: 300px;
+}
+
+#about-left-bottom {
+    width: 50%;
+    height: 300px;
+    float: left;
+    background-color: blue;
+}
+
+#about-right-bottom {
+    width: 50%;
+    height: 300px;
+    float: right;
+    background-color: crimson;
 }
