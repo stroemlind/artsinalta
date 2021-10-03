@@ -246,6 +246,11 @@ td {
     float: left;
 }
 
+iframe {
+    border: 3px solid #FFAB4A;
+    margin: 50px;
+}
+
 /* Footer */
 
 footer {
