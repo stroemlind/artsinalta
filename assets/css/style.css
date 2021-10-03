@@ -79,16 +79,16 @@ header {
     clear: both;
 }
 
-/* About top section */
+/* About section */
 
 #about {
     width: 100%;
-    height: 500px;
+    height: 800px;
 }
 
-#about-left-top {
+#about-left {
     width: 50%;
-    height: 500px;
+    height: 800px;
     float: left;
 }
 
@@ -99,35 +99,32 @@ header {
 }
 
 #about-right-top {
-    margin-left: 50%;
+    width: 50%;
     height: 500px;
+    background-color: #dff2f7;
+    float: right;
 }
 
-.about-heading {
+#about-heading {
+    color: #FFAB4A;
     text-align: center;
     font-size: 300%;
     padding-top: 112px;
     margin: 0 0 20px 0;
 }
 
-.about-p {
+#about-p {
     text-align: justify;
     padding: 0 80px;
-    margin: 0;
+    margin: 0 auto;
 }
 
-/* About bottom section */
-
-#about-bottom {
-    width: 100%;
-    height: 300px;
-}
-
-#about-left-bottom {
+#about-righ-bottom {
     width: 50%;
     height: 300px;
-    float: left;
+    float: right;
     background-color: #dff2f7;
+    margin: 0 auto;
 }
 
 #list-heading {
@@ -145,13 +142,6 @@ header {
     color: #FFAB4A;
 }
 
-#about-right-bottom {
-    width: 50%;
-    height: 300px;
-    float: right;
-    background-color: #dff2f7;
-}
-
 /* Quote section */
 
 #quote {
@@ -167,14 +157,14 @@ header {
 }
 
 #the-quote {
-    margin: 0;
+    margin: 0 auto;
     padding-top: 40px;
     font-family: Molle, cursive;
     font-size: 300%;
 }
 
 #by-someone {
-    margin: 0;
+    margin: 0 aout;
 }
 
 /* When section */
