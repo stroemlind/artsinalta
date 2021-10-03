@@ -163,7 +163,7 @@ header {
 
 .text-quote {
     text-align: center;
-    color: #dff2f7;
+    color: aliceblue;
 }
 
 #the-quote {
@@ -187,14 +187,15 @@ header {
 
 #when-float-left {
     font-size: 500%;
+    color: #FFAB4A;
     text-align: right;
     margin: 0;
-    padding: 215px 0 0 220px;
+    padding: 200px 0 0 220px;
     float: left;
 }
 
 #when-float-right {
-    width: 50%;
+    width: 60%;
     height: 500px;
     float: right;
     background-color: #dff2f7;
@@ -206,7 +207,7 @@ table {
     color: #FFAB4A;
     width: 75%;
     height: 350px;
-    margin: 80px 0 80px 50px;
+    margin: 75px 0 75px 20px;
     border-collapse: collapse;
 }
 
