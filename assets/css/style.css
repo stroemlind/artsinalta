@@ -271,7 +271,7 @@ footer {
     letter-spacing: 50px;
 }
 
-#madeby {
+footer p {
     margin: 0;
     font-family: Molle, cursive;
     text-align: right;
@@ -283,3 +283,25 @@ footer {
 
 /* gallery */
 
+#gallery-top {
+    width: 100%;
+    height: 600px;
+    background-color: #dff2f7;
+}
+
+#info-gallery {
+    width: 50%;
+    height: 600px;
+}
+
+#gallery-head {
+    color: #FFAB4A;
+    font-size: 750%;
+    margin: 0 auto;
+}
+
+#gallery-text {
+    color: #FFAB4A;
+    font-family: Molle, cursive;
+    margin: 0 auto;
+}
