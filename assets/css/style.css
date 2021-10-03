@@ -165,6 +165,7 @@ header {
 
 #by-someone {
     margin: 0 aout;
+    font-style: italic;
 }
 
 /* When section */
@@ -175,19 +176,17 @@ header {
     background-color: #dff2f7;
 }
 
-#when-float-left {
+#when-left {
     font-size: 500%;
     color: #FFAB4A;
     text-align: right;
     margin: 0;
     padding: 200px 0 0 220px;
-    float: left;
 }
 
-#when-float-right {
+#when-right {
     width: 60%;
     height: 500px;
-    float: right;
     background-color: #dff2f7;
 }
 
