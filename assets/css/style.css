@@ -239,8 +239,20 @@ td {
     float: right;
 }
 
+#where-right h2 {
+    font-size: 250%;
+    color: aliceblue;
+    margin-top: 170px;
+    
+}
+
+#where-right p {
+    color: aliceblue;
+    font-weight: 300;
+}
+
 #where-left {
-    background-color: aquamarine;
+    background-color: #FFAB4A;
     width: 60%;
     height: 500px;
     float: left;
