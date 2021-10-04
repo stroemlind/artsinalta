@@ -113,10 +113,11 @@ header {
     margin: 0 0 20px 0;
 }
 
-#about-p {
+.about-p {
     text-align: justify;
     padding: 0 80px;
     margin: 0 auto;
+    clear: both;
 }
 
 #about-righ-bottom {
@@ -292,6 +293,10 @@ footer p {
 #info-gallery {
     width: 50%;
     height: 600px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
 }
 
 #gallery-head {
@@ -304,4 +309,13 @@ footer p {
     color: #FFAB4A;
     font-family: Molle, cursive;
     margin: 0 auto;
+}
+
+#big-img {
+    width: 50%;
+    height: 600px;
+    box-sizing: border-box;
+    padding: 5px 30px 5px 5px;
+    display: flex;
+    flex-direction: row-reverse;
 }
