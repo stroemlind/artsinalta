@@ -319,3 +319,25 @@ footer p {
     display: flex;
     flex-direction: row-reverse;
 }
+
+.gallery-section {
+    width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+
+.img-container {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    padding: 15px;
+    display: flex;
+    align-items: stretch;
+    column-count: aout;
+    column-gap: 15px;
+}
+
+.img-container img {
+    width: 100%;
+    height: 400px;
+}
