@@ -360,14 +360,23 @@ footer p {
   display: block;
 }*/
 
+/* Sign Up form */
 .sign-up-left {
     width: 40%;
+    height: 500px;
     background-color: #dff2f7;
     color: #FFAB4A;
+    clear: both;
 }
 
 .sign-up-left h2 {
-    font-size: 300%;
+    font-size: 250%;
     margin-top: 0;
     text-align: center;
+}
+
+.section-form {
+    width: 60%;
+    height: 500px;
+    background-color: #dff2f7;
 }
