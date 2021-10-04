@@ -349,3 +349,15 @@ footer p {
   clear: both;
   display: block;
 }*/
+
+.sign-up-left {
+    width: 40%;
+    background-color: #dff2f7;
+    color: #FFAB4A;
+}
+
+.sign-up-left h2 {
+    font-size: 300%;
+    margin-top: 0;
+    text-align: center;
+}
