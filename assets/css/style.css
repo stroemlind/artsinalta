@@ -258,6 +258,7 @@ footer {
     width: 100%;
     height: 100px;
     background-color: #dff2f7;
+    clear: both;
 }
 
 .social-media {
@@ -286,7 +287,7 @@ footer p {
 
 #gallery-top {
     width: 100%;
-    height: 600px;
+    height: 650px;
     background-color: #dff2f7;
 }
 
@@ -322,22 +323,29 @@ footer p {
 
 .gallery-section {
     width: 100%;
-    height: 800px;
+    height: auto;
     background-color: #dff2f7;
 }
 
-.img-container {
+.gallery-section {
     width: 100%;
     height: auto;
-    box-sizing: border-box;
-    padding: 15px;
-    display: flex;
-    align-items: stretch;
-    column-count: aout;
-    column-gap: 15px;
+    background-color: #dff2f7;
 }
 
-.img-container img {
-    width: 100%;
-    height: 400px;
+.gallery {
+    width: 32%;
+    float: left;
+    margin: 5px;
 }
+
+.gallery img {
+    width: 100%;
+    height: 500px;
+}
+
+/*.clearfix::after {
+  content: "";
+  clear: both;
+  display: block;
+}*/
