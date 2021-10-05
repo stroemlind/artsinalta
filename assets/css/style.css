@@ -377,10 +377,16 @@ footer p {
     font-size: 250%;
     margin-top: 0;
     text-align: center;
+    padding-top: 175px;
 }
 
 .perks-list {
-    padding-left: 50px;
+    margin-left: 90px;
+}
+
+.perks-list li {
+    padding-top: 3px;
+    margin-left: 20px;
 }
 
 /* The Sign up form */
