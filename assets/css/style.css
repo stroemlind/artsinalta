@@ -437,10 +437,15 @@ footer p {
 }
 
 .button {
+    font-family: Molle, cursive;
     text-decoration: none;
     border: solid 1px #FFAB4A;
     color: #FFAB4A;
     padding: 10px;
     font-weight: 400;
-    margin-top: 5px;
+    margin: 5px 0 0 217px;
+}
+
+.button:hover {
+    background-color: cornflowerblue;
 }
