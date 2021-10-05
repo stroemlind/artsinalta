@@ -38,18 +38,36 @@
     </header>
 
 <!-- Section with heading and list -->
-    <section class="left, sign-up-left">
-        <h2>Become a member</h2>
-        <dl>
-            <dt>The perks of becoming a member:</dt>
-            <dd>Access to Our art studio 4 times/ week</dd>
-            <dd>Access to all supplies and tools</dd>
-            <dd>It only cost 200 SEK/ month</dd>
-        </dl>
+    <section>
+        <div class="left, sign-up-left">
+           <h2>Become a member</h2>
+           <dl>
+              <dt>The perks of becoming a member:</dt>
+              <dd>Access to Our art studio 4 times/ week</dd>
+              <dd>Access to all supplies and tools</dd>
+              <dd>It only cost 200 SEK/ month</dd>
+            </dl>
+        </div>
+        <div class="clear"></div>
+        <div class="right section-form">
+            <form class="signup-form">
+                <h2>Sign up here:</h2>
+                <label for="name">Full Name:</label>
+                <input type="text" name="full_name" id="name" class="input-value" required>
+                <br>
+                <label for="phone">Phone Number:</label>
+                <input type="tel" name="phone_number" id="phone" placeholder="071-123-45-67" pattern="[0-9]{3}-[0-9]{3}-[0-9]{2}-[0-9]{2}" class="input-value" required>
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" class="input-value" required>
+                <br>
+                <input type="submit" value="Let's join" class="button">
+            </form>
+        </div>
     </section>
 
-<!-- Section with sign up form -->
-    <section class="right section-form">
+<!-- Section with sign up form
+    <div class="right section-form">
         <form>
             <h2>Sign up here:</h2>
             <label for="name">Full Name:</label>
@@ -60,7 +78,7 @@
             <input type="email" name="email" id="email" required>
             <input type="submit" value="Let's join">
         </form>
-    </section>
+    </div> -->
 
 <!-- Footer -->
     <footer>
