@@ -379,6 +379,10 @@ footer p {
     text-align: center;
 }
 
+.perks-list {
+    padding-left: 50px;
+}
+
 /* The Sign up form */
 .section-form {
     width: 60%;
