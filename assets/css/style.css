@@ -361,6 +361,11 @@ footer p {
 }*/
 
 /* Sign Up form Section */
+#signup {
+    width: 100%;
+    height: 500px;
+}
+
 /* Heading and list */
 .sign-up-left {
     width: 40%;
@@ -368,9 +373,8 @@ footer p {
     background-color: #dff2f7;
     color: #FFAB4A;
     clear: both;
-    box-sizing: border-box;
     margin: 0;
-    display: block;
+    display: inline-block;
 }
 
 .sign-up-left h2 {
@@ -390,17 +394,53 @@ footer p {
 }
 
 /* The Sign up form */
-.section-form {
+#section-form {
     width: 60%;
     height: 500px;
     background-color: #dff2f7;
-    box-sizing: border-box;
     clear: both;
-    margin: 0;
+    display: inline-block;
 }
 
 .signup-form {
-    width: 80%;
+    max-width: 500px;
     height: 300px;
     border: 2px solid #FFAB4A;
+    padding: 30px;
+    background-color: #dff2f7;
+    margin: 60px 0 0 60px;
+}
+
+.signup-form h2 {
+    font-size: 175%;
+    text-align: center;
+    padding-bottom: 10px;
+    color: #FFAB4A;
+}
+
+.input-value {
+    width: 100%;
+    height: 30px;
+    background: transparent;
+    border: 1px solid #FFAB4A;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.input-value:hover {
+    background: #FFAB4A;
+}
+
+.signup-form label {
+    color: #FFAB4A;
+    font-size: 120%;
+}
+
+.button {
+    text-decoration: none;
+    border: solid 1px #FFAB4A;
+    color: #FFAB4A;
+    padding: 10px;
+    font-weight: 400;
+    margin-top: 5px;
 }
