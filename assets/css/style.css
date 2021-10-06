@@ -27,7 +27,7 @@ h2 {
 /* header */
 
 header {
-    background-color: #dff2f7;
+    background-color: #fff7f3;
     padding-top: 10px;
 }
 
@@ -37,7 +37,7 @@ header {
 
 #logo {
     font-family: Molle, cursive;
-    color: #FFAB4A;
+    color: #5c0b1d;
     font-size: 300%;
     margin-left: 20px;
     line-height: 75px;
@@ -68,15 +68,15 @@ header {
 
 #menu a {
     text-decoration: none;
-    border: solid 1px #FFAB4A;
-    color: #FFAB4A;
+    border: solid 1px #5c0b1d;
+    color: #5c0b1d;
     padding: 10px;
     font-weight: 400;
 }
 
 #menu li a:hover {
-    background-color: #FFAB4A;
-    color: aliceblue;
+    background-color: #5c0b1d;
+    color: #fff7f3;
 }
 
 .clear {
@@ -87,7 +87,9 @@ header {
 
 #about {
     height: 800px;
-    background-color: #fff7f3;
+    width: 100%;
+    background-image: url('../images/pexels-tatiana-paintbrushes.jpg') no-repeat center center;
+    background-size: contain;
 }
 
 #about-left {
@@ -107,7 +109,7 @@ header {
 #about-right-top {
     width: 50%;
     height: 500px;
-    background-color: #fff7f3;
+    /*background-color: #fff7f3;*/
     float: right;
     box-sizing: border-box;
 }
@@ -132,7 +134,7 @@ header {
     width: 50%;
     height: 300px;
     float: right;
-    background-color: #fff7f3;
+    /*background-color: #fff7f3;*/
     margin: 0 auto;
     box-sizing: border-box;
 }
