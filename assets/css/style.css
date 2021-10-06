@@ -397,14 +397,14 @@ footer {
 #signup {
     width: 100%;
     height: 500px;
+    background-color: #fff7f3;
 }
 
 /* Heading and list */
 .sign-up-left {
     width: 40%;
     height: 500px;
-    background-color: #dff2f7;
-    color: #FFAB4A;
+    color: #921601;
     margin: 0;
     float: left;
     box-sizing: border-box;
@@ -430,7 +430,6 @@ footer {
 #section-form {
     width: 60%;
     height: 500px;
-    background-color: #dff2f7;
     float: right;
     box-sizing: border-box;
 }
@@ -438,9 +437,9 @@ footer {
 .signup-form {
     max-width: 500px;
     height: 300px;
-    border: 2px solid #FFAB4A;
+    border: 2px solid #921601;
     padding: 30px;
-    background-color: #dff2f7;
+    background-color: #fff7f3;
     margin: 60px 0 0 60px;
 }
 
@@ -448,39 +447,40 @@ footer {
     font-size: 175%;
     text-align: center;
     padding-bottom: 10px;
-    color: #FFAB4A;
+    color: #921601;
 }
 
 .input-value {
     width: 100%;
     height: 30px;
     background: transparent;
-    border: 1px solid #FFAB4A;
+    border: 1px solid #921601;
     padding: 5px;
     margin-bottom: 10px;
 }
 
 .input-value:hover {
-    background: #FFAB4A;
+    background: #b26f6c;
 }
 
 .signup-form label {
-    color: #FFAB4A;
+    color: #921601;
     font-size: 120%;
 }
 
 .button {
     font-family: Molle, cursive;
     text-decoration: none;
-    border: solid 1px #FFAB4A;
-    color: #FFAB4A;
+    border: solid 1px #921601;
+    color: #921601;
+    background-color: #fff4ed;
     padding: 10px;
     font-weight: 400;
     margin: 5px 0 0 217px;
 }
 
 .button:hover {
-    background-color: cornflowerblue;
+    background-color: #b26f6c;
 }
 
 /* Media queries */
