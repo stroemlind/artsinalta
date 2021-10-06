@@ -95,12 +95,14 @@ header {
     height: 800px;
     float: left;
     box-sizing: border-box;
+    background-color: #dff2f7;
 }
 
 #paintbrush {
-    width: 100%;
-    height: 800px;
+    width: 470px;
+    height: 650px;
     overflow: hidden;
+    margin: 50px 0 0 50px;
 }
 
 #about-right-top {
@@ -113,17 +115,17 @@ header {
 
 #about-heading {
     color: #FFAB4A;
-    text-align: center;
-    font-size: 300%;
+    font-size: 350%;
     padding-top: 112px;
-    margin: 0 0 20px 0;
+    text-align: center;
 }
 
 .about-p {
+    width: 65%;
+    height: auto;
     text-align: justify;
-    padding: 0 80px;
-    margin: 0 auto;
-    clear: both;
+    margin: 0 100px;
+    clear: right;
 }
 
 #about-right-bottom {
@@ -136,15 +138,24 @@ header {
 }
 
 #list-heading {
-    margin-left: 80px;
-    padding-top: 50px;
+    margin: 0 130px 0 120px;
+    padding: 5px 0 5px 5px;
     text-transform: uppercase;
     font-weight: 600;
     color: #FFAB4A;
+    border: 3px solid #FFAB4A;
+    border-bottom: none;
+}
+
+#pros-list {
+    border: 3px solid #FFAB4A;
+    margin: 0 130px 0 120px;
+    border-top: none;
+    padding: 0 0 5px 5px;
 }
 
 #pros-list li {
-    margin-left: 80px;
+    margin-left: 20px;
     font-size: 120%;
     font-weight: 400;
     color: #FFAB4A;
