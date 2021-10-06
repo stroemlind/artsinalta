@@ -436,6 +436,7 @@ footer {
     height: 500px;
     float: right;
     box-sizing: border-box;
+    background-color: #fff7f3;
 }
 
 .signup-form {
@@ -562,7 +563,7 @@ footer {
     }
 
     .gallery-section {
-        width: 65%;
+        width: 100%;
         height: auto;
         float: left;
         margin: 0 auto;
