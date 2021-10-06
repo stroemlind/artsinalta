@@ -320,6 +320,7 @@ footer {
     text-align: center;
     color: #5c0b1d;
 }
+
 /* gallery */
 
 #gallery-top {
@@ -330,7 +331,7 @@ footer {
 
 #info-gallery {
     width: 50%;
-    height: 600px;
+    height: 250px;
     box-sizing: border-box;
     /*display: flex;
     flex-direction: column;*/
@@ -494,9 +495,9 @@ footer {
 /* For larger to medium screen size from 1200px and down*/
 
 @media screen and (max-width: 1200px) {
-    #header {
+    header {
         width: 65%;
-        height: 100px;
+        height: 200px;
         margin: 0 auto;
     }    
 
@@ -550,7 +551,7 @@ footer {
         padding: 0;
     }
 
-    #where {
+    .where {
         width: 65%;
         height: 1000px;
         margin: 0 auto;
@@ -594,13 +595,13 @@ footer {
         margin: 0 auto;
     }
     
-    #sign-up-left, #section-form {
+    .sign-up-left, #section-form {
         width: 100%;
         float: left;
         padding: 0;
     }
 
-    #footer {
+    footer {
         width: 65%;
         height: 200px;
         margin: 0 auto;
@@ -610,7 +611,6 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
-        clear: both;
     }
 
 }

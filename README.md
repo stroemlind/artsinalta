@@ -23,9 +23,9 @@ The social icons in the footer are imported from Font-awesome, they fonts used a
 
 ### Wireframes 
 Here are my wireframes for the project. 
-![LandingPage wireframe](/documentation/wireframes/landingpage-wireframe.JPEG)
-![Gallery wireframe](/documentation/wireframes/gallery-wireframe.JPEG)
-![Sign-up wireframe](documentation/wireframes/signup-wireframe.JPEG)
+![LandingPage wireframe](documentation/wireframes/landingpage-wireframe.jpg)
+![Gallery wireframe](documentation/wireframes/gallery-wireframe.jpg)
+![Sign-up wireframe](documentation/wireframes/signup-wireframe.jpg)
 
 ## Features
 
