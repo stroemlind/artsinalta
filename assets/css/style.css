@@ -86,7 +86,6 @@ header {
 /* About section */
 
 #about {
-    width: 100%;
     height: 800px;
 }
 
@@ -163,7 +162,6 @@ header {
 /* Quote section */
 
 #quote {
-    width: 100%;
     height: 150px;
     background-color: #FFAB4A;
     margin-top: 0;
@@ -208,7 +206,6 @@ header {
 
 #when-right {
     width: 60%;
-    height: 500px;
     background-color: #dff2f7;
     float: right;
 }
@@ -330,9 +327,10 @@ footer {
     width: 50%;
     height: 600px;
     box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
+    /*display: flex;
+    flex-direction: column;*/
     padding-top: 200px;
+    float: right;
 }
 
 #gallery-head {
@@ -345,6 +343,7 @@ footer {
     color: #FFAB4A;
     font-family: Molle, cursive;
     margin: 0 auto;
+    padding-left: 20px;
 }
 
 #big-img {
@@ -352,8 +351,15 @@ footer {
     height: 600px;
     box-sizing: border-box;
     padding: 5px 30px 5px 5px;
-    display: flex;
-    flex-direction: row-reverse;
+    float: left;
+    /*display: flex;
+    flex-direction: row-reverse;*/
+}
+
+#big-img img {
+    width: 400px;
+    height: 550px;
+    padding: 30px 0 0 150px;
 }
 
 .gallery-section {
@@ -474,4 +480,86 @@ footer {
 
 .button:hover {
     background-color: cornflowerblue;
+}
+
+/* Media queries */
+
+/* For larger to medium screen size from 1200px and down*/
+
+@media screen and (max-width: 1200px) {
+    #about {
+        width: 65%;
+        height: 1600px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #about-left, #about-right-top, #about-right-bottom {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+   
+    #quote {
+        width: 65%;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .text-quote {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #when {
+        width: 65%;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    #when-left, #when-right {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #where {
+        width: 65%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+
+    #where-right, #where-left {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #gallery-top {
+        width: 65%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+
+    #info-gallery, #big-img {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    .gallery-section {
+        width: 65%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .gallery {
+        width: 100%;
+        height: auto;
+        padding: 0;
+        float: left;
+        column-count: 2;
+    }
+
 }
