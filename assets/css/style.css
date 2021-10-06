@@ -551,6 +551,7 @@ footer {
     .gallery-section {
         width: 65%;
         height: auto;
+        float: left;
         margin: 0 auto;
     }
 
@@ -558,8 +559,19 @@ footer {
         width: 100%;
         height: auto;
         padding: 0;
-        float: left;
         column-count: 2;
+    }
+
+    #sign-up {
+        width: 65%;
+        height: 1000px;
+        margin: 0 auto;
+    }
+    
+    #sign-up-left, #section-form {
+        width: 100%;
+        float: left;
+        padding: 0 auto;
     }
 
 }
