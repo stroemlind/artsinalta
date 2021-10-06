@@ -507,13 +507,13 @@ footer {
     }
 
     #about {
-        width: 100%;
+        width: 65%;
         height: 1600px;
         margin: 0 auto;
     }
 
     #about-left {
-        width: 100%;
+        width: 65%;
         float: left;
         margin: 0 auto;
     } 
@@ -526,7 +526,7 @@ footer {
     }
    
     #quote {
-        width: 100%;
+        width: 65%;
         height: 200px;
         margin: 0 auto;
     }
@@ -539,7 +539,7 @@ footer {
     }
 
     #when {
-        width: 100%;
+        width: 65%;
         height: 400px;
         margin: 0 auto;
     }
@@ -563,7 +563,7 @@ footer {
     }
 
     #gallery-top {
-        width: 100%;
+        width: 65%;
         height: 1000px;
         margin: 0 auto;
     }
@@ -575,7 +575,7 @@ footer {
     }
 
     .gallery-section {
-        width: 100%;
+        width: 65%;
         height: auto;
         float: left;
         margin: 0 auto;
@@ -589,7 +589,7 @@ footer {
     }
 
     #sign-up {
-        width: 100%;
+        width: 65%;
         height: 1000px;
         margin: 0 auto;
     }
@@ -598,6 +598,19 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
+    }
+
+    #footer {
+        width: 65%;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .social-media, .contact {
+        width: 100%;
+        float: left;
+        padding: 0;
+        clear: both;
     }
 
 }
