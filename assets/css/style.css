@@ -285,7 +285,6 @@ iframe {
 /* Footer */
 
 footer {
-    width: 100%;
     height: 100px;
     background-color: #dff2f7;
     clear: both;
@@ -293,7 +292,7 @@ footer {
 
 .social-media {
     font-size: 350%;
-    float: left;
+    float: right;
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -303,16 +302,22 @@ footer {
     letter-spacing: 50px;
 }
 
-footer p {
-    margin: 0;
-    font-family: Molle, cursive;
-    text-align: right;
-    color: #FFAB4A;
-    float: right;
-    padding-top: 70px;
-    padding-right: 20px;
+.contact {
+    float: left;
+    margin: 15px 0 0px 70px;
 }
 
+.contact p {
+    margin-left: 10px;
+    text-align: left;
+    color: #FFAB4A;
+}
+
+.contact h2 {
+    font-size: 150%;
+    text-align: center;
+    color: #FFAB4A;
+}
 /* gallery */
 
 #gallery-top {
