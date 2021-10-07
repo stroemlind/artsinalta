@@ -638,18 +638,39 @@ footer {
         column-count: 2;
     }
 
-    #sign-up {
+   /* Sign Up */ 
+    #signup {
         width: 100%;
-        height: 1000px;
+        height: 800px;
         margin: 0 auto;
     }
     
     .sign-up-left, #section-form {
         width: 100%;
+        height: auto;
         float: left;
         padding: 0;
     }
 
+    .sign-up-left h2 {
+        padding: 50px 0 20px 0;
+        text-align: center;
+    }
+
+    .sign-up-left h3 {
+        margin: 0 30px 0 0;
+        text-align: center;
+    }
+
+    .perks-list {
+        margin-left: 350px;
+    }
+
+    .signup-form {
+        margin: 100px 80px 80px 230px;
+    }
+
+   /* Footer */
     footer {
         width: 100%;
         height: 200px;
