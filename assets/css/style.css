@@ -606,13 +606,21 @@ footer {
    /* Where section */ 
     .where {
         width: 100%;
-        height: auto;
+        height: 500px;
         margin: 0 auto;
     }
 
-    #where-right, #where-left {
-        width: 100%;
-        height: fit-content;
+    #where-right {
+        width: 40%;
+        height: 500px;
+        float: right;
+        padding: 0;
+        margin: 0 auto;
+    } 
+    
+    #where-left {
+        width: 60%;
+        height: 500px;
         float: left;
         padding: 0;
         margin: 0 auto;
@@ -620,17 +628,17 @@ footer {
 
     #where-right h2 {
         text-align: center;
-        margin: 100px 0 0 0;
+        margin: 180px 0 0 0;
     }
 
     #where-right p {
         text-align: justify;
-        margin-left: 350px;
+        margin-left: 40px;
     }
 
     #map {
         width: 80%;
-        padding: 50px 70px 50px 100px;  
+        padding: 50px 70px;  
         margin: 0;
 
     }
