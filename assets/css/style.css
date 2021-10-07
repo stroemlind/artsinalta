@@ -378,9 +378,10 @@ footer {
     float: left;
     margin: 5px;*/
     column-count: 3;
-    width: 100%;
-    height: 1100px;
+    width: 90%;
+    height: 1080px;
     margin: 0 auto;
+    padding-left: 40px;
 }
 
 .gallery img {
