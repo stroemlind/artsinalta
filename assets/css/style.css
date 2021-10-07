@@ -423,6 +423,7 @@ footer {
 
 .perks-list {
     margin-left: 90px;
+
 }
 
 .perks-list li {
@@ -495,7 +496,7 @@ footer {
 
 @media screen and (max-width: 1200px) {
     header {
-        width: 65%;
+        width: 100%;
         height: 200px;
         margin: 0 auto;
     }    
@@ -503,19 +504,21 @@ footer {
     #logo, #menu {
         width: 100%;
         float: left;
-        padding-left: 5px;
+        padding-left: 10px;
+        text-align: center;
     }
-
+  /* About section */
     #about {
-        width: 65%;
+        width: 100%;
         height: 1600px;
         margin: 0 auto;
     }
 
     #about-left {
-        width: 65%;
+        width: 100%;
         float: left;
         margin: 0 auto;
+        text-align: center;
     } 
     
     #about-right-top, #about-right-bottom {
@@ -524,9 +527,13 @@ footer {
         padding: 0;
         margin: 0 auto;
     }
-   
+
+    #about-right-top p {
+        padding-left: 70px;
+    }
+   /* Quote section */
     #quote {
-        width: 65%;
+        width: 100%;
         height: 200px;
         margin: 0 auto;
     }
@@ -534,12 +541,13 @@ footer {
     .text-quote {
         width: 100%;
         float: left;
-        padding: 0;
+        padding-top: 20px;
         margin: 0 auto;
     }
-
+   
+   /* When section */ 
     #when {
-        width: 65%;
+        width: 100%;
         height: 400px;
         margin: 0 auto;
     }
@@ -551,7 +559,7 @@ footer {
     }
 
     .where {
-        width: 65%;
+        width: 100%;
         height: 1000px;
         margin: 0 auto;
     }
@@ -563,7 +571,7 @@ footer {
     }
 
     #gallery-top {
-        width: 65%;
+        width: 100%;
         height: 1000px;
         margin: 0 auto;
     }
@@ -575,7 +583,7 @@ footer {
     }
 
     .gallery-section {
-        width: 65%;
+        width: 100%;
         height: auto;
         float: left;
         margin: 0 auto;
@@ -589,7 +597,7 @@ footer {
     }
 
     #sign-up {
-        width: 65%;
+        width: 100%;
         height: 1000px;
         margin: 0 auto;
     }
@@ -601,7 +609,7 @@ footer {
     }
 
     footer {
-        width: 65%;
+        width: 100%;
         height: 200px;
         margin: 0 auto;
     }
