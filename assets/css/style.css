@@ -696,19 +696,19 @@ footer {
    /* Sign Up */ 
     #signup {
         width: 100%;
-        height: 800px;
+        height: 600px;
         margin: 0 auto;
     }
     
-    .sign-up-left, #section-form {
-        width: 100%;
-        height: auto;
+    .sign-up-left {
+        width: 40%;
+        height: 600px;
         float: left;
         padding: 0;
     }
 
     .sign-up-left h2 {
-        padding: 50px 0 20px 0;
+        padding: 190px 0 20px 0;
         text-align: center;
     }
 
@@ -718,11 +718,18 @@ footer {
     }
 
     .perks-list {
-        margin-left: 350px;
+        margin-left: 50px;
+    }
+
+    #section-form {
+        width: 60%;
+        height: 600px;
+        float: right;
+        padding: 0;
     }
 
     .signup-form {
-        margin: 100px 80px 80px 230px;
+        margin: 100px 20px 80px 20px;
     }
 
    /* Footer */
