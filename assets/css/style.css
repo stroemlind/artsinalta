@@ -713,6 +713,19 @@ footer {
     #the-quote {
         width: 90%;
     }
+
+    /* Gallery */
+    #gallery-top {
+        height: 800px;
+    }
+    
+    #info-gallery {
+        height: 200px;
+    }
+
+    .gallery {
+        padding: 0;
+    }
 }
 
 
