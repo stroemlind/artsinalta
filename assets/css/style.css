@@ -491,7 +491,6 @@ footer {
 }
 
 /* Media queries */
-
 /* For larger to medium screen size from 1200px and down*/
 
 @media screen and (max-width: 1200px) {
@@ -692,3 +691,30 @@ footer {
     }
 
 }
+
+/* Media queries */
+/* For medium to small screen size from 768px and down*/
+@media screen and (max-width: 768px) {
+
+  /* About section */
+    #paintbrush {
+        margin: 0;
+    }
+
+    #about-right-top p {
+        padding-left: 30px;
+    }
+
+    /* Quote section */
+    #quote {
+        height: 250px;
+    }
+    
+    #the-quote {
+        width: 90%;
+    }
+}
+
+
+/* Media queries */
+/* For small screen size from 425px and down*/
