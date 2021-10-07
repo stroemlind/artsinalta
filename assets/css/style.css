@@ -826,4 +826,30 @@ footer {
         padding-left: 30px;
     }
 
+    /* Sign Up */
+    #signup {
+        height: 600px;
+    }
+
+    .sign-up-left h2 {
+        padding: 0 20px;
+    }
+
+    .sign-up-left h3 {
+        margin: 0 3px 0 0;
+    }
+
+    .perks-list {
+        margin-left: 60px;
+    }
+
+    .signup-form {
+        width: 70%;
+        margin: 30px auto;
+    }
+
+    .button {
+        margin-left: 110px;
+    }
+
 }
