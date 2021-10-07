@@ -899,6 +899,11 @@ footer {
     .button {
         margin-left: 220px;
     }
+
+/* Footer */
+    .contact h2 {
+        margin-left: 90px;
+    }
 }
 
 /* Media queries */
