@@ -815,6 +815,15 @@ footer {
     }
 
     /* Gallery */
-    
+
+    #info-gallery h2 {
+        font-size: 600%;
+        text-align: center;
+    }
+
+    .gallery {
+        column-count: 1;
+        padding-left: 30px;
+    }
 
 }
