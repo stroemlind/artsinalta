@@ -860,6 +860,35 @@ footer {
         margin: 20px 0 0 120px;
     }
 
+    /* Where Section */
+    #where {
+        width: 100%;
+        height: 600px;
+    }
+
+    #where-right {
+        width: 100%;
+        height: 180px;
+        float: left;
+    }
+    
+    #where-left {
+        width: 100%;
+        float: left;
+    }
+
+    #where-right h2 {
+        margin: 50px 0 0 0;
+    }
+
+    #where-right p {
+        margin-left: 220px;
+    }
+
+    #map {
+        padding: 50px 80px;
+    }
+
     /* Gallery */
     #gallery-top {
         height: 800px;
