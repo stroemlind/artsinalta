@@ -955,4 +955,17 @@ footer {
         padding: 0;
     }
 
+/* Sign Up */
+    .sign-up-left h3 {
+        font-size: 100%;
+    }
+
+    .perks-list {
+        margin-left: 30px;
+    }
+
+    .button {
+        margin-left: 70px;
+    }
+
 }
