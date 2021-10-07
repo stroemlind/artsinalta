@@ -796,11 +796,16 @@ footer {
 
     /* Quote section */
     #quote {
-        height: 250px;
+        height: 200px;
+    }
+
+    .text-quote {
+        padding: 0;
     }
     
     #the-quote {
         width: 90%;
+        padding: 0;
     }
 
     /* Gallery */
