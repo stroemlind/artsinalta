@@ -88,7 +88,7 @@ header {
 #about {
     height: 800px;
     width: 100%;
-    background-image: url('../images/pexels-tatiana-paintbrushes.jpg') no-repeat center center;
+    background-color: #fff7f3;
     background-size: contain;
 }
 
