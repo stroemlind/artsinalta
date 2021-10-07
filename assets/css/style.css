@@ -852,4 +852,11 @@ footer {
         margin-left: 110px;
     }
 
+    /* Footer */
+    .social-media {
+        width: 80%;
+        text-align: center;
+        margin-left: 67px;
+    }
+
 }
