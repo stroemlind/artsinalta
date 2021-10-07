@@ -738,4 +738,83 @@ footer {
 }
 
 /* Media queries */
-/* For small screen size from 425px and down*/
+/* For small screen size from 430px and down*/
+
+@media screen and (max-width: 430px) {
+    header {
+        height: 250px;
+        margin: 0;
+    }
+
+   /* About section */ 
+    
+   #about {
+       height: 1500px;
+       margin: 0;
+   }
+   #about-top {
+        height: 600px;
+    }   
+
+    #paintbrush {
+        width: 100%;
+        height: 800px;
+        margin: 0 auto;
+    }
+
+    #paintbrush img {
+        width: 430px;
+        height: auto;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    #about-heading {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    #about-right-bottom {
+        height: 200px;
+    }
+
+    .about-p {
+        margin: auto 15px;
+        width: 80%;
+    }
+
+    #list-heading, #pros-list {
+        margin: 0 20px;
+    }
+
+    /* Quote Section */
+    #the-quote {
+        padding-top: 0;
+    } 
+
+    /* When Section */
+    #when {
+        height: 650px;
+    }
+
+    table {
+        margin-left: 70px;
+    }
+
+    /* Where section */
+
+    #where-right h2 {
+        margin: 60px 0 10px 0;
+    }
+    #where-right p {
+        margin: 0 0 10px 120px;
+    }
+
+    #map {
+        padding: 50px 40px 50px 43px;
+    }
+
+    /* Gallery */
+    
+
+}
