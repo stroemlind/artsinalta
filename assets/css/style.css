@@ -866,3 +866,60 @@ footer {
     }
 
 }
+
+/* Media queries */
+/* For small screen size from 320px and down*/
+@media screen and (max-width: 320px) {
+
+/* Header */
+    #logo {
+        padding: 3px 0 0 0;
+    }
+
+/* About Section */
+    #about {
+        height: 1250px;
+    }
+
+    #about-left {
+        height: 550px;
+    }
+   
+    #paintbrush {
+        width: 320px;
+        height: 525px;
+        margin: 0 auto;
+        object-fit: cover;
+    }
+
+    #paintbrush img {
+        width: 300px;
+        height: 450px;
+        margin: 0 auto;
+        object-fit: cover;
+    }
+
+    .about-p {
+        padding-left: 20px;
+    }
+
+/* Quote Section */
+    #quote {
+        height: 360px;
+    }
+
+/* When Section */
+    table {
+        margin: 0 0 50px 50px;
+    }
+
+/* Where Section */
+    #where-right p {
+        margin: 0 0 10px 65px;
+    }
+
+    footer {
+        height: 250px;
+    }
+
+}
