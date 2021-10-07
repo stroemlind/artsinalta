@@ -558,16 +558,51 @@ footer {
         padding: 0;
     }
 
+    #when-left h2{
+        width: 100%;
+        float: left;
+        padding: 0;
+        margin: 70px auto;
+        text-align: center;
+    }
+
+    table {
+        width: 70%;
+        float: left;
+        padding: 0;
+        margin: 0 0 50px 140px;
+    }
+
+   /* Where section */ 
     .where {
         width: 100%;
-        height: 1000px;
+        height: auto;
         margin: 0 auto;
     }
 
     #where-right, #where-left {
         width: 100%;
+        height: fit-content;
         float: left;
         padding: 0;
+        margin: 0 auto;
+    }
+
+    #where-right h2 {
+        text-align: center;
+        margin: 100px 0 0 0;
+    }
+
+    #where-right p {
+        text-align: justify;
+        margin-left: 350px;
+    }
+
+    #map {
+        width: 80%;
+        padding: 50px 70px 50px 100px;  
+        margin: 0;
+
     }
 
     #gallery-top {
