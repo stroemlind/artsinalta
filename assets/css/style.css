@@ -718,7 +718,7 @@ footer {
     #gallery-top {
         height: 800px;
     }
-    
+
     #info-gallery {
         height: 200px;
     }
@@ -726,8 +726,16 @@ footer {
     .gallery {
         padding: 0;
     }
+    
+    /* Sign Up */
+    .perks-list {
+        margin-left: 200px;
+    }
+    
+    .signup-form {
+        margin: 100px 80px 80px 100px;
+    }
 }
-
 
 /* Media queries */
 /* For small screen size from 425px and down*/
