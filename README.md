@@ -5,6 +5,15 @@ The information provided by the page will tell the user all they need to know ab
 
 Will add amiresponsive image here 
 
+## User Stories
+
+* "I want to easily navigate through the website"
+* "I want a simple and easy sign up form with relevent infromation"
+* "I want to be able to read the whole site on my phone and/or tablet" 
+* "I want clear information about time, meetings and where the club is located" 
+* "I want links to relevent social media platforms" 
+* "I want to see picture of work done by other members"
+
 ## UX 
 
 The design of the website is minimalistic with a twist of colors to create a fun and energy giving experience to the user. The design should lead the user through the website and make it easy for them to navigate
