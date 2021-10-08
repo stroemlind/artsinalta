@@ -88,6 +88,13 @@ Here are my wireframes for the project.
 ### Unfixed Bugs 
 
 ## Deployment
+This site is deployed through GitHub pages.
+* To deploy this website I:
+ * Opened the repository and navigated to settings tab
+ * Form the side menu there I selected pages
+ * I set the source section to Branch: Main and then save
+
+The live link to the website: (https://stroemlind.github.io/artsinalta/index.html)
 
 ### Local Deployment 
 
