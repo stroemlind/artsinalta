@@ -822,13 +822,15 @@ footer {
 /* Media Querie for screen size 360px and down */
 @media screen and (max-width: 360px) {
     
-    /* Header */
+/* Header */
 
     #menu {
         margin: 20px 30px ;
     }
-    /* Home Page */
-    /* About Section */
+
+/* Home Page */
+/* About Section */
+
     #about-right {
         width: 100%;
         display: flex;
@@ -843,7 +845,14 @@ footer {
         margin: 0 50px 30px 50px;
     }
 
-    /* Footer */
+/* When Section */
+
+    #when-left h2 {
+        margin: 50px 0;
+    }
+
+/* Footer */
+
     .social-media {
         margin: 20px 0;
         font-size: 300%;
