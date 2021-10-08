@@ -186,11 +186,13 @@ header {
     width: 100%;
     background-color: #fff7f3;
     box-sizing: border-box;
+    display: flex;
 }
 
 #when-left {
     width: 40%;
-    float: left;
+    display: flex;
+    flex-direction: column;
 }
 
 #when-left h2 {
@@ -204,7 +206,8 @@ header {
 #when-right {
     width: 60%;
     background-color: #fff7f3;
-    float: right;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Information Table */
