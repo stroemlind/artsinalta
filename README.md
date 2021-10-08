@@ -100,6 +100,12 @@ For this project I have used the following technologies
 
 ### Browser Compatibility
 
+* Chrome 
+
+* Safari 
+
+* Firefox
+
 ### Code Validation
 
 * HTML
