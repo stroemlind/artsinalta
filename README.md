@@ -87,6 +87,15 @@ Here are my wireframes for the project.
 
 ## Technologies Used
 
+For this project I have used the following technologies 
+* HTML
+* CSS 
+* GitHub 
+* GitPod 
+* Dev Tools 
+* Unicorn Revealer 
+* Auto Prefixer 
+
 ## Testing
 
 ### Browser Compatibility
@@ -132,7 +141,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 * The instruction for the placeholder pattern for phone number in the Sign Up form was taken from [w3school](https://www.w3schools.com/html/html_form_input_types.asp)
 * To get the structure of the gallery on the Gallery page right, I got help from Code Institute tutor Ed and through this [article](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
 * For my code with Media Queries I looked at the project "Love Running"
-* Used [Autofrefixer](https://autoprefixer.github.io/) for my CSS code
+* Used [Autoprefixer](https://autoprefixer.github.io/) for my CSS code
 
 ### Media
 
