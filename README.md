@@ -6,12 +6,15 @@ The information provided by the page will tell the user all they need to know ab
 Will add amiresponsive image here 
 
 ## UX 
+
 The design of the website is minimalistic with a twist of colors to create a fun and energy giving experience to the user. The design should lead the user through the website and make it easy for them to navigate
 
 ### Colour Scheme 
+
 The colours chosen for the website are orange, blue and a very light grey. I choose orange and blue because they are complimentary colours, which create a good contrast to each other.
 
 ### Typography 
+
 To keep the design of the website minimalistic with a fun twist I used a clean simple font for the overall text on the website, and for the Headings a more playful font. I importet two fonts from Google fonts: 
 * Monserrat 
 * Molle 
@@ -22,6 +25,7 @@ The social icons in the footer are imported from Font-awesome, they fonts used a
 * Spotify 
 
 ### Wireframes 
+
 Here are my wireframes for the project. 
 ![LandingPage wireframe](documentation/wireframes/landingpage-wireframe.jpg)
 ![Gallery wireframe](documentation/wireframes/gallery-wireframe.jpg)
@@ -30,6 +34,7 @@ Here are my wireframes for the project.
 ## Features
 
 ### Existing Features
+
 * Header
   * The header is featured at the top of the page and has the navigation nested inside it.
   * The header shows the name of the club and the websites navigation menu. It uses the chosen google fonts and colours for the website.
@@ -78,9 +83,11 @@ Here are my wireframes for the project.
 ### Browser Compatibility
 
 ### Code Validation
+
 * HTML
  *The code has one warning, which is that the Quote section lacks a h-element, when passing through the offical [WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
-*CSS
+
+* CSS
  *No errors where found when passing through the offical [(Jigsaw)-validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ### Responsiveness
@@ -88,19 +95,27 @@ Here are my wireframes for the project.
 ### Unfixed Bugs 
 
 ## Deployment
-This site is deployed through GitHub pages.
-* To deploy this website I:
- * Opened the repository and navigated to settings tab
- * Form the side menu there I selected pages
- * I set the source section to Branch: Main and then save
 
-The live link to the website: (https://stroemlind.github.io/artsinalta/index.html)
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+- In the GitHub [repository](https://github.com/stroemlind/artsinalta), navigate to the Settings tab.
+- From the source section drop-down menu, select the `Main` Branch.
+- Once the Main branch has been selected and saved, the page will be automatically refreshed with a detailed ribbon displayed to indicate the successful deployment.
+
+The live link can be found here - https://stroemlind.github.io/artsinalta
 
 ### Local Deployment 
+
+In order to make a local copy of this project, you can type the following into your IDE Terminal to clone this repository:
+
+- `git clone https://github.com/stroemlind/artsinalta.git`
+
+Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://github.com/stroemlind/artsinalta), and it will create a brand new workspace on your own Gitpod account.
 
 ## Credits 
 
 ### Content 
+
 * All the information and text given are ficional and made up by the developer for sole purpose to this project.
 * The fonts for the website are taken from [Google-fonts](https://fonts.google.com/)
 * The icons in the footer are taken from [Fontawesome](https://fontawesome.com/)
@@ -110,6 +125,7 @@ The live link to the website: (https://stroemlind.github.io/artsinalta/index.htm
 * For my code with Media Queries I looked at the project "Love Running"
 
 ### Media
+
 * The photo on the index page is taken from [pexels](https://www.pexels.com/sv-se/foto/konst-kreativ-hand-borste-4309872/)
 * The photos for the gallery page are all taken from pexel, link to each below: 
  * [Img-1](https://www.pexels.com/sv-se/foto/man-karlek-manniskor-kvinna-3817580/)

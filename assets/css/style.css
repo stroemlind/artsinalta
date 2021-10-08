@@ -1,10 +1,17 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Molle:ital@1&family=Montserrat:wght@300;400;500&display=swap');
 
 
 * {
     margin: 0;
     padding: 0;
-    border: none;
+    box-sizing: border-box;
 }
 
 html {
@@ -96,7 +103,8 @@ header {
     width: 50%;
     height: 800px;
     float: left;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 #paintbrush {
@@ -111,7 +119,8 @@ header {
     height: 500px;
     /*background-color: #fff7f3;*/
     float: right;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 #about-heading {
@@ -136,7 +145,8 @@ header {
     float: right;
     /*background-color: #fff7f3;*/
     margin: 0 auto;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 #list-heading {
@@ -250,7 +260,8 @@ td {
     height: 500px;
     margin-top: 0;
     float: right;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 #where-right h2 {
@@ -270,7 +281,8 @@ td {
     width: 60%;
     height: 500px;
     float: left;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 iframe {
@@ -332,7 +344,8 @@ footer {
 #info-gallery {
     width: 50%;
     height: 250px;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     /*display: flex;
     flex-direction: column;*/
     padding-top: 200px;
@@ -355,7 +368,8 @@ footer {
 #big-img {
     width: 50%;
     height: 600px;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     padding: 5px 30px 5px 5px;
     float: left;
     /*display: flex;
@@ -377,7 +391,9 @@ footer {
     /*width: 32%;
     float: left;
     margin: 5px;*/
-    column-count: 3;
+    -webkit-column-count: 3;
+       -moz-column-count: 3;
+            column-count: 3;
     width: 90%;
     height: 1080px;
     margin: 0 auto;
@@ -388,7 +404,8 @@ footer {
     width: 300px;
     height: 500px;
     padding-left: 10px;
-    object-fit: contain;
+    -o-object-fit: contain;
+       object-fit: contain;
 }
 
 /*.clearfix::after {
@@ -411,7 +428,8 @@ footer {
     color: #5c0b1d;
     margin: 0;
     float: left;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 .sign-up-left h2 {
@@ -436,7 +454,8 @@ footer {
     width: 60%;
     height: 650px;
     float: right;
-    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
     background-color: #fff7f3;
 }
 
@@ -690,7 +709,9 @@ footer {
         width: 80%;
         height: auto;
         padding-left: 70px;
-        column-count: 2;
+        -webkit-column-count: 2;
+           -moz-column-count: 2;
+                column-count: 2;
     }
 
    /* Sign Up */ 
@@ -918,7 +939,8 @@ footer {
         padding: 0;
         margin: 0px 190px 0 220px;
         text-align: center;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
         overflow: hidden;
     }
 
@@ -992,14 +1014,16 @@ footer {
         width: 425px;
         height: 600px;
         margin: 0 auto;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
     }
 
     #paintbrush img {
         width: 400px;
         height: 550px;
         margin: 0 auto;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
     }
 
     #about-heading {
@@ -1065,7 +1089,9 @@ footer {
     
 
     .gallery {
-        column-count: 1;
+        -webkit-column-count: 1;
+           -moz-column-count: 1;
+                column-count: 1;
         padding-left: 30px;
     }
 
@@ -1136,14 +1162,16 @@ footer {
         width: 320px;
         height: 525px;
         margin: 0 auto;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
     }
 
     #paintbrush img {
         width: 300px;
         height: 450px;
         margin: 0 auto;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
     }
 
     .about-p {
@@ -1209,7 +1237,8 @@ footer {
         width: 300px;
         height: 450px;
         margin: 0 10px;
-        object-fit: cover;
+        -o-object-fit: cover;
+           object-fit: cover;
     }
 
     .gallery {
@@ -1220,7 +1249,8 @@ footer {
     .gallery img {
         height: 480px;
         width: 280px;
-        object-fit: contain;
+        -o-object-fit: contain;
+           object-fit: contain;
         margin: 0;
         padding: 0;
     }
