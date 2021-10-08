@@ -855,4 +855,9 @@ footer {
         font-size: 300%;
     }
 
+    /* Gallery Page */
+    #big-img img {
+        width: 70%;
+    }
+
 }
