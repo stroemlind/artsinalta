@@ -677,6 +677,10 @@ footer {
         text-align: center;
     }
 
+    #gallery-head {
+        text-align: center;
+    }
+
     #gallery-text {
         padding: 0 0 70px 0;
     }
@@ -758,6 +762,23 @@ footer {
     #where-right p {
         margin: 0 0 248px 40px;
     }
+
+    /* Gallery Page */
+
+    #gallery-head {
+        font-size: 500%;
+        width: auto;
+        text-align: right;
+    }
+
+    .gallery {
+        width: 100%;
+        column-count: 2;
+        object-fit: contain;
+        padding: 0 auto;
+    }
+
+
 }
 
 /* About section 
