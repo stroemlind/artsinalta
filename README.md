@@ -11,18 +11,18 @@ The design of the website is minimalistic with a twist of colors to create a fun
 
 ### Colour Scheme 
 
-The colours chosen for the website are orange, blue and a very light grey. I choose orange and blue because they are complimentary colours, which create a good contrast to each other.
+The colours chosen for the website are a burgndy-red #5c0b1d, a warm pink #b26f6c and a light pink #fff7f3 as background colour. I choese these because the go well with each other and make a good contrast when put togehter.
 
 ### Typography 
 
 To keep the design of the website minimalistic with a fun twist I used a clean simple font for the overall text on the website, and for the Headings a more playful font. I importet two fonts from Google fonts: 
-* Monserrat 
-* Molle 
+* [Monserrat](https://fonts.google.com/specimen/Montserrat?query=mon)
+* [Molle](https://fonts.google.com/specimen/Molle?query=moll)
 
-The social icons in the footer are imported from Font-awesome, they fonts used are: 
-* Facebook
-* Instagram 
-* Spotify 
+The social icons in the footer are imported from Fontawesome, they fonts used are: 
+* [Facebook](https://fontawesome.com/v5.15/icons/facebook-square?style=brands)
+* [Instagram](https://fontawesome.com/v5.15/icons/instagram?style=brands)
+* [Spotify](https://fontawesome.com/v5.15/icons/spotify?style=brands)
 
 ### Wireframes 
 
@@ -123,6 +123,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 * The instruction for the placeholder pattern for phone number in the Sign Up form was taken from [w3school](https://www.w3schools.com/html/html_form_input_types.asp)
 * To get the structure of the gallery on the Gallery page right, I got help from Code Institute tutor Ed and through this [article](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
 * For my code with Media Queries I looked at the project "Love Running"
+* Used [Autofrefixer](https://autoprefixer.github.io/) for my CSS code
 
 ### Media
 
