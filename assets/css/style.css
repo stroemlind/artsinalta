@@ -97,6 +97,7 @@ header {
 #about {
     width: 100%;
     background-color: #fff7f3;
+    box-sizing: border-box;
 }
 
 #about-left {
@@ -166,6 +167,7 @@ header {
     margin-top: 0;
     float: left;
     clear: both;
+    box-sizing: border-box;
 }
 
 .text-quote {
@@ -190,6 +192,7 @@ header {
 #when {
     width: 100%;
     background-color: #fff7f3;
+    box-sizing: border-box;
 }
 
 #when-left {
@@ -239,6 +242,7 @@ td {
 
 .where {
     width: 100%;
+    box-sizing: border-box;
 }
 
 #where-right {
