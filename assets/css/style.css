@@ -237,13 +237,16 @@ td {
     width: 100%;
     box-sizing: border-box;
     background-color: #5c0b1d;
+    display: flex;
 }
 
 #where-right {
     background-color: #5c0b1d;
     width: 40%;
     margin-top: 0;
-    float: right;
+    display: flex;
+    flex-direction: column;
+    order: 2;
 }
 
 #where-right h2 {
@@ -261,7 +264,9 @@ td {
 #where-left {
     background-color: #5c0b1d;
     width: 60%;
-    float: left;
+    display: flex;
+    flex-direction: column;
+    order: 1;
 }
 
 /* Map */
