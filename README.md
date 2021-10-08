@@ -92,3 +92,14 @@ Here are my wireframes for the project.
 ### Content 
 
 ### Media
+* The photo on the index page is taken from [pexels](https://www.pexels.com/sv-se/foto/konst-kreativ-hand-borste-4309872/)
+* The photos for the gallery page are all taken from pexel, link to each below: 
+ * [Img-1](https://www.pexels.com/sv-se/foto/man-karlek-manniskor-kvinna-3817580/)
+ * [Img-2](https://www.pexels.com/sv-se/foto/malning-abstrakt-brun-komposition-5501874/)
+ * [Img-3](https://www.pexels.com/sv-se/foto/gryning-man-karlek-manniskor-3817499/)
+ * [Img-4](https://www.pexels.com/sv-se/foto/kvinna-konst-kreativ-malning-3817657/)
+ * [Img-5](https://www.pexels.com/sv-se/foto/gryning-mode-man-manniskor-3819792/)
+ * [Img-6](https://www.pexels.com/sv-se/foto/mode-man-manniskor-kvinna-3819794/)
+ * [Img-7](https://www.pexels.com/sv-se/foto/person-hander-konst-kreativ-4483093/)
+* The map for the where section is from [google maps](https://www.google.se/maps/place/Oxelv%C3%A4gen+42,+138+30+%C3%84lta/@59.2563055,18.1743694,17z/data=!3m1!4b1!4m5!3m4!1s0x465f7923c226d0db:0x7013aa4e4516b29!8m2!3d59.2563028!4d18.1765582)
+* The favicon is taken from [pexels](https://www.pexels.com/sv-se/foto/design-farg-ljus-utrustning-2303796/)
