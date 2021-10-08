@@ -693,7 +693,6 @@ footer {
 
     #about-left, #about-right {
         width: 100%;
-        /*float: left;*/
     }
 
     #about-left img {
@@ -726,7 +725,6 @@ footer {
 
     #when-left, #when-right {
         width: 100%;
-        /*float: left;*/
     }
 
     #when-left h2 {
@@ -747,7 +745,6 @@ footer {
 
     #where-left, #where-right {
         width: 100%;
-        /*float: left;*/
     }
 
     #where-right h2{
