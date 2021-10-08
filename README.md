@@ -79,7 +79,7 @@ Here are my wireframes for the project.
 
 ### Code Validation
 
-### REsponsiveness
+### Responsiveness
 
 ### Unfixed Bugs 
 
