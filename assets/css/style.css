@@ -1147,6 +1147,13 @@ footer {
 /* For small screen size from 390px and down*/
 @media screen and (max-width: 390px) {
 
+/* About Section */
+    #about-left img{
+        width: 350px;
+        height: 525px;
+    }
+
+/* Where Section */    
     #map {
         padding: 40px 0 0 35px;
     }
