@@ -1141,14 +1141,14 @@ footer {
 
 }
 
+
+
 /* Media queries */
-/* For small screen size from 375px and down*/
+/* For small screen size from 390px and down*/
 @media screen and (max-width: 390px) {
 
-/* About section */   
-    #paintbrush img {
-        width: 350px;
-        height: 525px;
+    #map {
+        padding: 40px 0 0 35px;
     }
 
 /* Gallery */
