@@ -535,11 +535,12 @@ footer {
 
     #about {
         width: 100%;
+        display: flex;
+        flex-direction: column;
     }
 
     #about-left, #about-right {
         width: 100%;
-        float: left;
     }
 
     #about-left img {
@@ -564,11 +565,12 @@ footer {
 
     #when {
         width: 100%;
+        display: flex;
+        flex-direction: column;
     }
 
     #when-left, #when-right {
         width: 100%;
-        float: left;
     }
 
     #when-left h2 {
@@ -585,9 +587,20 @@ footer {
         width: 100%;
     }
 
-    #where-left, #where-right {
+    #where-left {
         width: 100%;
-        float: left;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        order: 2;
+    }
+
+    #where-right {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        order: 1;
     }
 
     #where-right h2{
