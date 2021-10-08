@@ -496,6 +496,11 @@ footer {
 
 /* Where Section */
 
+    #where {
+        width: 100%;
+        display: flex;
+    }
+
     #where-right h2 {
         margin: 150px 0 0 0;
     }
@@ -585,22 +590,14 @@ footer {
 
     #where {
         width: 100%;
-    }
-
-    #where-left {
-        width: 100%;
-        height: auto;
         display: flex;
         flex-direction: column;
-        order: 2;
     }
 
-    #where-right {
+    #where-left, #where-right {
         width: 100%;
-        height: auto;
         display: flex;
         flex-direction: column;
-        order: 1;
     }
 
     #where-right h2{
@@ -609,6 +606,11 @@ footer {
 
     #where-right p {
         margin: 0 0 50px 100px;
+    }
+
+    #map {
+        display: flex;
+        flex-direction: column;
     }
 
 /* Gallery Page */
