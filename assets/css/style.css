@@ -763,7 +763,7 @@ footer {
         margin: 0 0 248px 40px;
     }
 
-    /* Gallery Page */
+/* Gallery Page */
 
     #gallery-head {
         font-size: 500%;
@@ -778,6 +778,12 @@ footer {
         padding: 0 auto;
     }
 
+
+/* Sign Up page */
+
+    .perks-list {
+        margin-left: 70px;
+    }
 
 }
 
