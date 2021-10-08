@@ -116,6 +116,8 @@ For this project I have used the following technologies
 
 ### Responsiveness
 
+### Tested User Stories
+
 ### Unfixed Bugs 
 
 ## Deployment
