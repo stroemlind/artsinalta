@@ -11,8 +11,7 @@
 * {
     margin: 0;
     padding: 0;
-    border: none;
-    /*box-sizing: border-box;*/
+    box-sizing: border-box;
 }
 
 html {
@@ -25,6 +24,7 @@ body {
     margin: 0;
     border: 0;
     padding: 0;
+    background-color: #fff7f3;
 
 }
 
@@ -92,7 +92,378 @@ header {
     clear: both;
 }
 
-/* About section */
+/* About Section */
+
+#about {
+    width: 100%;
+    background-color: #fff7f3;
+}
+
+#about-left {
+    width: 50%;
+    background-color: #fff7f3;
+    float: left;
+}
+
+#about-left img {
+    max-width: 520px;
+    max-height: 700px;
+    overflow: hidden;
+    margin: 50px 0 50px 60px;
+    object-fit: cover;
+}
+
+#about-right {
+    width: 50%;
+    background-color: #fff7f3;
+    float: right;
+}
+
+#about-heading {
+    color: #5c0b1d;
+    font-size: 350%;
+    padding: 112px 0 0 150px;
+    text-align: left;
+}
+
+.about-p {
+    color: #5c0b1d;
+    width: 65%;
+    text-align: justify;
+    margin: 0 130px 50px 70px;
+}
+
+#list-heading {
+    margin: 20px 150px 0 70px;
+    padding: 5px 0 5px 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #5c0b1d;
+    border: 3px solid #5c0b1d;
+    border-bottom: none;
+}
+
+#pros-list {
+    border: 3px solid #5c0b1d;
+    margin: 0px 150px 120px 70px;
+    border-top: none;
+    padding: 0 0 5px 5px;
+}
+
+#pros-list li {
+    margin-left: 20px;
+    font-size: 120%;
+    font-weight: 400;
+    color: #5c0b1d;
+}
+
+/* Quote Section */
+
+#quote {
+    height: 150px;
+    width: 100%;
+    background-color: #5c0b1d;
+    margin-top: 0;
+    float: left;
+    clear: both;
+}
+
+.text-quote {
+    text-align: center;
+    color: #fff7f3;
+}
+
+#the-quote {
+    margin: 0 auto;
+    padding-top: 40px;
+    font-family: Molle, cursive;
+    font-size: 300%;
+}
+
+#by-someone {
+    margin: 0 auto;
+    font-style: italic;
+}
+
+/* When Section */
+
+#when {
+    width: 100%;
+    background-color: #fff7f3;
+}
+
+#when-left {
+    width: 40%;
+    float: left;
+}
+
+#when-left h2 {
+    font-size: 500%;
+    color: #5c0b1d;
+    text-align: right;
+    margin: 200px 50px 200px 100px;
+    width: 300px;
+}
+
+#when-right {
+    width: 60%;
+    background-color: #fff7f3;
+    float: right;
+}
+
+/* Information Table */
+
+table {
+    color: #5c0b1d;
+    width: 75%;
+    height: 350px;
+    margin: 75px 0 75px 20px;
+    border-collapse: collapse;
+}
+
+table, th, tr, td {
+    border: 2px solid #5c0b1d;
+}
+
+td {
+    text-align: center;
+    padding: 3px;
+}
+
+.info {
+    text-align: left;
+    padding-left: 5px;
+}
+
+/* Where Section */
+
+.where {
+    width: 100%;
+}
+
+#where-right {
+    background-color: #5c0b1d;
+    width: 40%;
+    margin-top: 0;
+    float: right;
+}
+
+#where-right h2 {
+    font-size: 250%;
+    color: #fff7f3;
+    margin: 170px 0 0 40px;
+}
+
+#where-right p {
+    color: #fff7f3;
+    font-weight: 300;
+    margin: 0 0 228px 40px;
+}
+
+#where-left {
+    background-color: #5c0b1d;
+    width: 60%;
+    float: left;
+}
+
+/* Map */
+
+iframe {
+    border: 3px solid #5c0b1d;
+    margin: 50px;
+}
+
+#map {
+    width: 80%;
+    height: 400px;
+    border: 0;
+}
+
+/* Footer */
+
+footer {
+    background-color: #fff7f3;
+    clear: both;
+}
+
+.social-media {
+    font-size: 350%;
+    float: right;
+    margin: 20px 0 20px 20px;
+}
+
+.social-media a {
+    color: #5c0b1d;
+    letter-spacing: 50px;
+}
+
+.contact {
+    float: left;
+    margin: 15px 0 20px 70px;
+}
+
+.contact p {
+    margin-left: 10px;
+    text-align: left;
+    color: #5c0b1d;
+}
+
+.contact h2 {
+    font-size: 150%;
+    text-align: center;
+    color: #5c0b1d;
+}
+
+/* gallery */
+
+#gallery-top {
+    width: 100%;
+    background-color: #fff7f3;
+}
+
+#info-gallery {
+    width: 50%;
+    padding-top: 250px;
+    float: right;
+    clear: right;
+}
+
+#gallery-head {
+    color: #5c0b1d;
+    font-size: 750%;
+    margin: 0 auto;
+}
+
+#gallery-text {
+    color: #5c0b1d;
+    font-family: Molle, cursive;
+    margin: 0 auto;
+    padding: 0 0 190px 105px;
+}
+
+#big-img {
+    width: 50%;
+    float: left;  
+}
+
+#big-img img {
+    margin: 30px 20px 30px 140px;
+    object-fit: cover;
+}
+
+/* Gallery Section */
+
+.gallery-section {
+    width: 100%;
+    background-color: #fff7f3;
+}
+
+.gallery {
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 40px;
+    float: left;
+    clear: both;
+    column-count: 3;
+}
+
+.gallery img {
+    width: 300px;
+    height: 500px;
+    padding-left: 10px;
+    object-fit: contain;
+}
+
+/* Sign Up Section */
+
+#signup {
+    width: 100%;
+    background-color: #fff7f3;
+}
+
+/* Heading and list */
+
+.sign-up-left {
+    width: 40%;
+    color: #5c0b1d;
+    float: left;
+}
+
+.sign-up-left h2 {
+    font-size: 250%;
+    margin-top: 0;
+    text-align: center;
+    padding-top: 175px;
+}
+
+.perks-list {
+    margin-left: 130px;
+
+}
+
+.perks-list li {
+    padding-top: 3px;
+    margin-left: 20px;
+}
+
+/* The Sign up form */
+
+#section-form {
+    width: 60%;
+    float: right;
+    background-color: #fff7f3;
+}
+
+.signup-form {
+    max-width: 500px;
+    border: 2px solid #5c0b1d;
+    padding: 30px;
+    background-color: #fff7f3;
+    margin: 80px 0 100px 60px;
+}
+
+.signup-form h2 {
+    font-size: 175%;
+    text-align: center;
+    padding-bottom: 10px;
+    color: #5c0b1d;
+}
+
+.input-value {
+    width: 100%;
+    height: 30px;
+    background: transparent;
+    border: 1px solid #5c0b1d;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.input-value:hover {
+    background: #b26f6c;
+}
+
+.signup-form label {
+    color: #5c0b1d;
+    font-size: 120%;
+}
+
+.button {
+    font-family: Molle, cursive;
+    text-decoration: none;
+    border: solid 1px #5c0b1d;
+    background-color: #5c0b1d;
+    color: #fff7f3;
+    padding: 10px;
+    font-weight: 400;
+    margin: 5px 0 0 180px;
+}
+
+.button:hover {
+    color: #5c0b1d;
+    background-color: #b26f6c;
+}
+
+/* About section 
 
 #about {
     height: 800px;
@@ -173,7 +544,7 @@ header {
     color: #5c0b1d;
 }
 
-/* Quote section */
+/* Quote section 
 
 #quote {
     height: 150px;
@@ -198,7 +569,7 @@ header {
     font-style: italic;
 }
 
-/* When section */
+/* When section 
 
 #when {
     height: 500px;
@@ -224,7 +595,7 @@ header {
     float: right;
 }
 
-/* Table */
+/* Table 
 
 table {
     color: #5c0b1d;
@@ -248,7 +619,7 @@ td {
     padding-left: 5px;
 }
 
-/* Where and Map*/
+/* Where and Map
 
 .where {
     height: 500px;
@@ -296,7 +667,7 @@ iframe {
     border: 0;
 }
 
-/* Footer */
+/* Footer 
 
 footer {
     height: 100px;
@@ -333,7 +704,7 @@ footer {
     color: #5c0b1d;
 }
 
-/* gallery */
+/* gallery 
 
 #gallery-top {
     width: 100%;
@@ -347,7 +718,7 @@ footer {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     /*display: flex;
-    flex-direction: column;*/
+    flex-direction: column;*
     padding-top: 200px;
     float: right;
 }
@@ -373,7 +744,7 @@ footer {
     padding: 5px 30px 5px 5px;
     float: left;
     /*display: flex;
-    flex-direction: row-reverse;*/
+    flex-direction: row-reverse;*
 }
 
 #big-img img {
@@ -390,7 +761,7 @@ footer {
 .gallery {
     /*width: 32%;
     float: left;
-    margin: 5px;*/
+    margin: 5px;
     -webkit-column-count: 3;
        -moz-column-count: 3;
             column-count: 3;
@@ -411,10 +782,10 @@ footer {
 /*.clearfix::after {
   content: "";
   clear: both;
-  display: block;
+  display: block;*
 }*/
 
-/* Sign Up form Section */
+/* Sign Up form Section 
 
 #signup {
     width: 100%;
@@ -422,7 +793,7 @@ footer {
     background-color: #fff7f3;
 }
 
-/* Heading and list */
+/* Heading and list 
 
 .sign-up-left {
     width: 40%;
@@ -451,7 +822,7 @@ footer {
     margin-left: 20px;
 }
 
-/* The Sign up form */
+/* The Sign up form 
 
 #section-form {
     width: 60%;
@@ -513,7 +884,7 @@ footer {
 }
 
 /* Media queries */
-/* For larger to medium screen size from 1200px and down*/
+/* For larger to medium screen size from 1200px and down
 
 @media screen and (max-width: 1200px) {
     header {
@@ -542,7 +913,7 @@ footer {
         clear: both;
     }
 
-/* About section */
+/* About section 
 
     #about {
         width: 100%;
@@ -576,7 +947,7 @@ footer {
         font-size: 105%;
     }
 
-/* Quote section */
+/* Quote section 
 
     #quote {
         width: 100%;
@@ -591,7 +962,7 @@ footer {
         margin: 0 auto;
     }
    
-/* When section */ 
+/* When section  
 
     #when {
         width: 100%;
@@ -628,7 +999,7 @@ footer {
         margin: 120px 0 0 70px;
     }
 
-/* Where section */ 
+/* Where section  
 
     .where {
         width: 100%;
@@ -669,7 +1040,7 @@ footer {
 
     }
 
-/* Gallery */ 
+/* Gallery  
 
     #gallery-top {
         width: 100%;
@@ -722,7 +1093,7 @@ footer {
                 column-count: 2;
     }
 
-/* Sign Up */ 
+/* Sign Up  
 
     #signup {
         width: 100%;
@@ -762,7 +1133,7 @@ footer {
         margin: 100px 20px 80px 20px;
     }
 
-/* Footer */
+/* Footer 
 
     footer {
         width: 100%;
@@ -799,7 +1170,7 @@ footer {
 }
 
 /* Media queries */
-/* For medium to small screen size from 768px and down*/
+/* For medium to small screen size from 768px and down
 @media screen and (max-width: 768px) {
 
     header {
@@ -818,7 +1189,7 @@ footer {
         padding-left: 0;
     }
 
-/* About section */
+/* About section 
 
     #about {
         width: 100%;
@@ -854,7 +1225,7 @@ footer {
         margin: 0 110px 0 150px;
     }
 
-/* Quote section */
+/* Quote section 
 
     #quote {
         height: 200px;
@@ -869,7 +1240,7 @@ footer {
         padding: 0;
     }
 
-/* When Section */
+/* When Section 
 
     #when {
         width: 100%;
@@ -896,7 +1267,7 @@ footer {
         margin: 20px 0 0 120px;
     }
 
-/* Where Section */
+/* Where Section 
 
     #where {
         width: 100%;
@@ -926,7 +1297,7 @@ footer {
         padding: 50px 70px;
     }
 
-/* Gallery */
+/* Gallery 
 
     #gallery-top {
         height: 800px;
@@ -963,7 +1334,7 @@ footer {
         padding: 0;
     }
     
-/* Sign Up */
+/* Sign Up 
 
     #signup {
         width: 100%;
@@ -995,7 +1366,7 @@ footer {
         margin-left: 220px;
     }
 
-/* Footer */
+/* Footer 
 
     .contact h2 {
         margin-left: 90px;
@@ -1003,7 +1374,7 @@ footer {
 }
 
 /* Media queries */
-/* For small screen size from 425px and down*/
+/* For small screen size from 425px and down
 
 @media screen and (max-width: 430px) {
     header {
@@ -1016,7 +1387,7 @@ footer {
         font-size: 250%;
     }
 
-/* About section */ 
+/* About section 
     
    #about {
        height: 1350px;
@@ -1066,13 +1437,13 @@ footer {
         margin: 0 20px;
     }
 
-/* Quote Section */
+/* Quote Section 
 
     #the-quote {
         padding-top: 0;
     } 
 
-/* When Section */
+/* When Section 
 
     #when {
         height: 650px;
@@ -1082,7 +1453,7 @@ footer {
         margin-left: 70px;
     }
 
-/* Where section */
+/* Where section 
 
     #where-right h2 {
         margin: 60px 0 10px 0;
@@ -1095,7 +1466,7 @@ footer {
         padding: 50px 40px 50px 43px;
     }
 
-/* Gallery */
+/* Gallery 
 
     #info-gallery h2 {
         font-size: 600%;
@@ -1114,7 +1485,7 @@ footer {
         padding-left: 30px;
     }
 
-/* Sign Up */
+/* Sign Up 
 
     #signup {
         height: 600px;
@@ -1141,7 +1512,7 @@ footer {
         margin-left: 75px;
     }
 
-/* Footer */
+/* Footer 
 
     footer {
         height: 200px;
@@ -1161,26 +1532,24 @@ footer {
 
 }
 
-
-
 /* Media queries */
-/* For small screen size from 390px and down*/
+/* For small screen size from 390px and down
 @media screen and (max-width: 390px) {
 
-/* About Section */
+/* About Section *
 
     #about-left img{
         width: 350px;
         height: 525px;
     }
 
-/* Where Section */  
+/* Where Section *  
 
     #map {
         padding: 40px 0 0 35px;
     }
 
-/* Gallery */
+/* Gallery *
 
     #big-img img {
         margin: 0 12px;
@@ -1188,16 +1557,16 @@ footer {
 }
 
 /* Media queries */
-/* For small screen size from 320px and down*/
+/* For small screen size from 320px and down*
 @media screen and (max-width: 320px) {
 
-/* Header */
+/* Header *
 
     #logo {
         padding: 3px 0 0 0;
     }
 
-/* About Section */
+/* About Section *
 
     #about {
         height: 1250px;
@@ -1227,19 +1596,19 @@ footer {
         padding-left: 20px;
     }
 
-/* Quote Section */
+/* Quote Section *
 
     #quote {
         height: 360px;
     }
 
-/* When Section */
+/* When Section *
 
     table {
         margin: 0 0 50px 50px;
     }
 
-/* Where Section */
+/* Where Section *
 
     #where {
         width: 100%;
@@ -1258,7 +1627,7 @@ footer {
         padding: 15px 31px;
     }
 
-/* Footer */
+/* Footer *
 
     footer {
         height: 300px;
@@ -1273,7 +1642,7 @@ footer {
         margin-left: 80px;
     }
 
-/* Gallery */ 
+/* Gallery * 
 
     #gallery-top {
         height: 730px;
@@ -1309,7 +1678,7 @@ footer {
         padding: 0;
     }
 
-/* Sign Up */
+/* Sign Up *
 
     .sign-up-left h3 {
         font-size: 100%;
@@ -1323,4 +1692,4 @@ footer {
         margin-left: 70px;
     }
 
-}
+}*/
