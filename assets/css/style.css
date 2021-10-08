@@ -980,11 +980,12 @@ footer {
    /* About section */ 
     
    #about {
-       height: 1500px;
+       height: 1350px;
        margin: 0;
    }
-   #about-top {
-        height: 600px;
+
+   #about-left {
+        height: 650px;
     }   
 
     #paintbrush {
@@ -1006,13 +1007,18 @@ footer {
         padding-top: 30px;
     }
 
-    #about-right-bottom {
-        height: 200px;
+    #about-right-top {
+        height: 450px;
     }
 
     .about-p {
-        margin: auto 15px;
+        margin: 0;
         width: 80%;
+        padding-left: 25px;
+    }
+
+    #about-right-bottom {
+        height: 200px;
     }
 
     #list-heading, #pros-list {
@@ -1085,10 +1091,20 @@ footer {
     }
 
     /* Footer */
+    footer {
+        height: 200px;
+    }
+
     .social-media {
-        width: 80%;
+        width: 90%;
         text-align: center;
-        margin-left: 67px;
+        margin-left: 0;
+    }
+
+    .contact {
+        width: 70%;
+        margin: 0 50px;
+        padding-top: 20px;
     }
 
 }
