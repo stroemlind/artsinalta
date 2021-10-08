@@ -473,6 +473,7 @@ footer {
         width: 90%;
         height: auto;
         margin: 70px 0 0 50px;
+        object-fit: cover;
     }
 
 /* Quote Section */
@@ -615,6 +616,7 @@ footer {
         width: 80%;
         height: auto;
         margin: 50px;
+        object-fit: cover;
     }
 
     .gallery-section {
@@ -675,6 +677,7 @@ footer {
         width: 80%;
         height: auto;
         margin: 50px;
+        object-fit: cover;
     }
 
     #about-right h2 {
@@ -747,6 +750,7 @@ footer {
         width: 80%;
         height: auto;
         margin: 50px;
+        object-fit: cover;
     }
 
     .gallery-section {
