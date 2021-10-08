@@ -55,6 +55,7 @@ header {
 #logo, a {
     text-decoration: none;
 }
+
 /* nav menu */
 
 .left {
@@ -118,7 +119,6 @@ header {
 #about-right-top {
     width: 50%;
     height: 500px;
-    /*background-color: #fff7f3;*/
     float: right;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -144,7 +144,6 @@ header {
     width: 50%;
     height: 300px;
     float: right;
-    /*background-color: #fff7f3;*/
     margin: 0 auto;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -416,6 +415,7 @@ footer {
 }*/
 
 /* Sign Up form Section */
+
 #signup {
     width: 100%;
     height: 650px;
@@ -423,6 +423,7 @@ footer {
 }
 
 /* Heading and list */
+
 .sign-up-left {
     width: 40%;
     height: 650px;
@@ -451,6 +452,7 @@ footer {
 }
 
 /* The Sign up form */
+
 #section-form {
     width: 60%;
     height: 650px;
@@ -540,7 +542,8 @@ footer {
         clear: both;
     }
 
-  /* About section */
+/* About section */
+
     #about {
         width: 100%;
         height: 800px;
@@ -573,7 +576,8 @@ footer {
         font-size: 105%;
     }
 
-   /* Quote section */
+/* Quote section */
+
     #quote {
         width: 100%;
         height: 200px;
@@ -587,7 +591,8 @@ footer {
         margin: 0 auto;
     }
    
-   /* When section */ 
+/* When section */ 
+
     #when {
         width: 100%;
         height: 600px;
@@ -623,7 +628,8 @@ footer {
         margin: 120px 0 0 70px;
     }
 
-   /* Where section */ 
+/* Where section */ 
+
     .where {
         width: 100%;
         height: 500px;
@@ -663,7 +669,8 @@ footer {
 
     }
 
-   /* Gallery */ 
+/* Gallery */ 
+
     #gallery-top {
         width: 100%;
         height: 650px;
@@ -715,7 +722,8 @@ footer {
                 column-count: 2;
     }
 
-   /* Sign Up */ 
+/* Sign Up */ 
+
     #signup {
         width: 100%;
         height: 600px;
@@ -754,7 +762,8 @@ footer {
         margin: 100px 20px 80px 20px;
     }
 
-   /* Footer */
+/* Footer */
+
     footer {
         width: 100%;
         height: 120px;
@@ -809,7 +818,8 @@ footer {
         padding-left: 0;
     }
 
-  /* About section */
+/* About section */
+
     #about {
         width: 100%;
         height: 1300px;
@@ -844,7 +854,8 @@ footer {
         margin: 0 110px 0 150px;
     }
 
-    /* Quote section */
+/* Quote section */
+
     #quote {
         height: 200px;
     }
@@ -858,7 +869,8 @@ footer {
         padding: 0;
     }
 
-    /* When Section */
+/* When Section */
+
     #when {
         width: 100%;
         height: 650px;
@@ -884,7 +896,8 @@ footer {
         margin: 20px 0 0 120px;
     }
 
-    /* Where Section */
+/* Where Section */
+
     #where {
         width: 100%;
         height: 600px;
@@ -913,7 +926,8 @@ footer {
         padding: 50px 70px;
     }
 
-    /* Gallery */
+/* Gallery */
+
     #gallery-top {
         height: 800px;
     }
@@ -949,7 +963,8 @@ footer {
         padding: 0;
     }
     
-    /* Sign Up */
+/* Sign Up */
+
     #signup {
         width: 100%;
         height: 600px;
@@ -981,6 +996,7 @@ footer {
     }
 
 /* Footer */
+
     .contact h2 {
         margin-left: 90px;
     }
@@ -1000,7 +1016,7 @@ footer {
         font-size: 250%;
     }
 
-   /* About section */ 
+/* About section */ 
     
    #about {
        height: 1350px;
@@ -1050,12 +1066,14 @@ footer {
         margin: 0 20px;
     }
 
-    /* Quote Section */
+/* Quote Section */
+
     #the-quote {
         padding-top: 0;
     } 
 
-    /* When Section */
+/* When Section */
+
     #when {
         height: 650px;
     }
@@ -1064,7 +1082,7 @@ footer {
         margin-left: 70px;
     }
 
-    /* Where section */
+/* Where section */
 
     #where-right h2 {
         margin: 60px 0 10px 0;
@@ -1077,7 +1095,7 @@ footer {
         padding: 50px 40px 50px 43px;
     }
 
-    /* Gallery */
+/* Gallery */
 
     #info-gallery h2 {
         font-size: 600%;
@@ -1096,7 +1114,8 @@ footer {
         padding-left: 30px;
     }
 
-    /* Sign Up */
+/* Sign Up */
+
     #signup {
         height: 600px;
     }
@@ -1122,7 +1141,8 @@ footer {
         margin-left: 75px;
     }
 
-    /* Footer */
+/* Footer */
+
     footer {
         height: 200px;
     }
@@ -1148,17 +1168,20 @@ footer {
 @media screen and (max-width: 390px) {
 
 /* About Section */
+
     #about-left img{
         width: 350px;
         height: 525px;
     }
 
-/* Where Section */    
+/* Where Section */  
+
     #map {
         padding: 40px 0 0 35px;
     }
 
 /* Gallery */
+
     #big-img img {
         margin: 0 12px;
     }
@@ -1169,11 +1192,13 @@ footer {
 @media screen and (max-width: 320px) {
 
 /* Header */
+
     #logo {
         padding: 3px 0 0 0;
     }
 
 /* About Section */
+
     #about {
         height: 1250px;
     }
@@ -1203,16 +1228,19 @@ footer {
     }
 
 /* Quote Section */
+
     #quote {
         height: 360px;
     }
 
 /* When Section */
+
     table {
         margin: 0 0 50px 50px;
     }
 
 /* Where Section */
+
     #where {
         width: 100%;
         height: 750px;
@@ -1231,6 +1259,7 @@ footer {
     }
 
 /* Footer */
+
     footer {
         height: 300px;
     }
@@ -1245,6 +1274,7 @@ footer {
     }
 
 /* Gallery */ 
+
     #gallery-top {
         height: 730px;
     }
@@ -1280,6 +1310,7 @@ footer {
     }
 
 /* Sign Up */
+
     .sign-up-left h3 {
         font-size: 100%;
     }
