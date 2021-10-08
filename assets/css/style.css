@@ -90,13 +90,13 @@ header {
 #about {
     width: 100%;
     background-color: #fff7f3;
-    box-sizing: border-box;
+    display: flex;
 }
 
 #about-left {
     width: 50%;
     background-color: #fff7f3;
-    float: left;
+    display: flex;
 }
 
 #about-left img {
@@ -110,7 +110,7 @@ header {
 #about-right {
     width: 50%;
     background-color: #fff7f3;
-    float: right;
+    display: flex;
 }
 
 #about-heading {
