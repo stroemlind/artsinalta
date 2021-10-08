@@ -78,6 +78,10 @@ Here are my wireframes for the project.
 ### Browser Compatibility
 
 ### Code Validation
+* HTML
+ *The code has one warning, which is that the Quote section lacks a h-element, when passing through the offical [WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
+*CSS
+ *No errors where found when passing through the offical [(Jigsaw)-validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
 ### Responsiveness
 
@@ -90,6 +94,13 @@ Here are my wireframes for the project.
 ## Credits 
 
 ### Content 
+* All the information and text given are ficional and made up by the developer for sole purpose to this project.
+* The fonts for the website are taken from [Google-fonts](https://fonts.google.com/)
+* The icons in the footer are taken from [Fontawesome](https://fontawesome.com/)
+* Information and instruction about the favicon was given by my mentor Tim Nelson
+* The instruction for the placeholder pattern for phone number in the Sign Up form was taken from [w3school](https://www.w3schools.com/html/html_form_input_types.asp)
+* To get the structure of the gallery on the Gallery page right, I got help from Code Institute tutor Ed and through this [article](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
+* For my code with Media Queries I looked at the project "Love Running"
 
 ### Media
 * The photo on the index page is taken from [pexels](https://www.pexels.com/sv-se/foto/konst-kreativ-hand-borste-4309872/)
