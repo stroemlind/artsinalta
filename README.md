@@ -167,9 +167,13 @@ For automatically testing the WC3 Validator and Jigsaw Validator was used on the
 ### Tested User Stories
 
 ### Unfixed Bugs 
+There were two bug that I was not able to fix during this project
 
-* The chosen fonts do not work in safari
-* I am aware of the warning from the HTML Validator 
+* The google font ‘Molle’ do not render on safari or internet mobile apps. A solution to this could be to download the font and upload it to the repository.
+
+* The scroll function does not work on Safari or internet mobile apps. A solution to this could be that I have to fix the scroll element in the code with some extra values. 
+
+* I am aware of the warning from the HTML Validator about the Quote Section.
 
 ## Deployment
 
