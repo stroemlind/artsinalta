@@ -16,7 +16,7 @@ Will add amiresponsive image here
 
 ## UX 
 
-The design of the website is minimalistic with a twist of colors to create a fun and energy giving experience to the user. The design should lead the user through the website and make it easy for them to navigate
+The design of the website is minimalistic with a warm colours to create a sofisticated website that is clean and have focus on the shared and relevant information to the user. The design should lead the user through the website and make it easy for them to navigate.
 
 ### Colour Scheme 
 
