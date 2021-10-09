@@ -108,9 +108,9 @@ These are the drawn wireframes for the project:
 
 ### Features Left to Implement
 
-Here are some features that would be great to implement in the futer to keep the website updated to the user:
+Here are some features that would be great to implement in the future to keep the website updated to the user:
 * Add a section with a news board, like blog post or forum
-* Creat a gallery with gallery album, so when selecting an album it opens to a new page displaying all images in that album.
+* Create a gallery with gallery albums, so when selecting an album, it opens to a new page displaying all images in that album.
 
 ## Technologies Used
 
@@ -119,37 +119,37 @@ The technologies used to develop this project are following:
 * HTML: HTML5 was used to create the core structure of the website.
 
 * CSS: CSS was used to style all the pages on the website.
+ 
+* GitHub: GitHub was used to store my repository and GitHub Pages to deploy the website. 
 
-* GitHub: GitHub were used to store my repository and GitHub Pages was used to deployed the website. 
+* Gitpod: GitPod was used as the development environment for developing my code during this project.
 
-* Gitpod: GitPod was used as the develpoment enviorment for developing my code during this project.
+* Git: Git was used to ensuring that the project would have backups and all the versions pushed to GitHub during the development of this project.
 
-* Git: Git was used to ensure that the project would have backups and all the version pushed to GitHub during the development of ths project.
-
-* Dev Tools: Dev Tools was used to look over the developent of the website and try different approches to problems that would occur during the process. 
+* Dev Tools: Dev Tools was used to look over the development of the website and try different approaches to problems that would occur during the process. 
 
 * Unicorn Revealer: Unicorn Revealer was used to find bugs, especially during the process of making the website responsive.
 
-* Auto Prefixer: Was used at the end of the project to give my CSS code some extra properties when used on different browsers.  
+* Auto Prefixer: This was used at the end of the project to give my CSS code some extra properties when used on different browsers.  
 
 ## Testing
-Testing done for the website was done both manually and automatically. 
+Testing done for the Website was done both manually and automatically. 
 
-For manual testing I always had a tab open with the preview of the website. To check up on my code and see if worked as I wanted. During the development of the website, I used Dev Tools to see how the code would respond if I added or change properties or value to it. Dev Tools was also used to check for responsiveness when decreasing or increasing the screen size. 
-Another tool used during development and testing was Unicorn Revealer, which helped me see if any content where being outside its container. 
+For manual testing, I always had a tab open with the preview of the Website. To check up on my code and see if it worked as I wanted. During the Website development, I used Dev Tools to see how the code would respond if I added or changed properties or values. Dev Tools were also used to check for responsiveness when decreasing or increasing the screen size. 
+Another tool used during development and testing was Unicorn Revealer, which helped me see if any content was outside its container. 
 
-To see and test the websites performance, I used Lighthouse, which gave me an updated report if to see how well my accessibility where for the website. This was used, together with Dev Tools when I needed to change and choose the colour of the website. The last test results where these: 
+To see and test the Website's performance, I used Lighthouse, which gave me an updated report to see how well my accessibility was for the Website. This tool was used, together with Dev Tools, when I needed to change and choose the color of the Website. The last test results were these: 
 
 ![Lighthouse](documentation/testing-screenshots/lighthouse.png)
 
 ### Browser Compatibility
 
 * Chrome
-  * The website works with well in Chrome and have full browser compatibility. The layout and all the functions that are applied to the website response as it should. All the pages load its content accordingly. 
+  * The website works well in Chrome and has full browser compatibility. The layout and all the functions that are applied to the website response as they should. All the pages load their content accordingly. 
   ![Chrome](documentation/testing-screenshots/desktopview.png)
 
 * Firefox
-  * The website works well in Firefox and have full browser compatibility. The layout and all the functions response as it should. All the pages load its content accordingly. 
+  * The website works well in Firefox and has full browser compatibility. The layout and all the functions respond as they should. All the pages load their content accordingly. 
   ![Firefox](documentation/testing-screenshots/firefoxview.png)
 
 * Safari 
@@ -157,10 +157,10 @@ To see and test the websites performance, I used Lighthouse, which gave me an up
   ![Safari](documentation/testing-scrle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given eenshots/safari-view.png)
 
 ### Code Validation
-For automatically testing the WC3 Validator and Jigsaw Validator was used on the code.
+For automatically testing, the WC3 Validator and Jigsaw Validator was used.
 
 * HTML
- * The code have no form of errors but it has one warning, which is that the Quote section lacks a h-element, when passing through the offical [WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
+ * The code has no form of errors, but it has one warning, which is that the Quote section lacks a h-element when passing through the official[WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
  ![HTML](documentation/testing-screenshots/htmlvalidator.png)
 
 * CSS
@@ -169,9 +169,8 @@ For automatically testing the WC3 Validator and Jigsaw Validator was used on the
 
 ### Responsiveness 
 
-The website response to the flow when increasing or decreasing the screen size. The content flow in an order to make the layout and content easy to follow for the user when using different screen size. 
-When the screen size decreases the layout re-arrange itself to go from a layout with a row look to a layout with a column look. This is to make the user experience more comfortable for the user. The content also re-size itself to fit the screen size and view. 
-As can be seen bellow 
+The website responds to the flow when increasing or decreasing the screen size. The content flow makes the layout and content easy to follow for the user when using different screen sizes. 
+When the screen size decreases, the layout re-arranges itself to go from a layout with a row look to a layout with a column look. This makes the user experience more comfortable for the user. The content also re-size itself to fit the screen size and view. 
 
 * #### Website viewed from a desktop screen size
 
@@ -187,33 +186,34 @@ As can be seen bellow
 
 ### Tested User Stories
 
-These are the result after testing the finctions on the website that was implementet by the User Stories. 
+These are the result after testing the functions on the Website made by the User Stories. 
 
-* "I want to easily navigate through the website"
+* "I want to navigate through the Website easily."
   * #### The logo in the header
-    The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
+   The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected, it takes the user to the top of the Home page.
 
     ![Logo](documentation/testing-screenshots/logo.jpg)
 
   * The Navigation bar/ Menu 
-    When the user navigates through the menu it takes the user to the top of the assigned page. 
+    When the user navigates through the menu, it takes the user to the top of the assigned page. 
 
   * Scroll function for When in the Navigation bar
-    When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
+    When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in the Safari browser or used on a mobile device. 
 
     ![Nav-menu](documentation/testing-screenshots/navmenu.jpg)
 
-* "I want clear information about time, meetings and where the club is located" 
+* "I want clear information about time, meetings, and where the club can be found." 
   * #### Google Maps 
-    The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
+    The embedded Google Map works well in all tested browsers. If selected, the user can use the commandos for zooming, get directions to the place, and open a new tab.
+
     ![Map-zoom](documentation/testing-screenshots/mapzoom.png) 
     ![map-newtab](documentation/testing-screenshots/mapnewtab.png)
     ![Map-firefox](documentation/testing-screenshots/mapfirefox.png)
 
 
-* "I want a simple and easy sign up form with relevent infromation"
+* "I want a simple and easy sign up form with relevant infromation"
   * #### The Sign Up
-    The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. See images below.
+    The form works in all browsers. It will only submit the form if all required fields have content. If not, it will notify the user of that specific field and ask them to write in the correct information. See images below.
 
     ![Sign-up-name](documentation/testing-screenshots/test-signupform-name.png)
     ![Sign-up-phone](documentation/testing-screenshots/test-signupform-phonenumber.png)
@@ -221,7 +221,7 @@ These are the result after testing the finctions on the website that was impleme
 
 * "I want links to relevent social media platforms" 
   * #### Social Media icons links
-    All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
+    All three Social Media icons work well on all tested browsers. When selected, each link opens in a new tab for the content given to them.
     * Facebook: 
     ![Facebook](documentation/testing-screenshots/facebook.png)
 
@@ -231,8 +231,8 @@ These are the result after testing the finctions on the website that was impleme
     *Spotify:
     ![Spotify](documentation/testing-screenshots/spotify.png)
 
-* "I want to be able to read the whole site on my phone and/or tablet" 
-  * For the User Story about reading the website on a phone and/or tablet, it is fully durable. For more information see the section about Responsiveness. 
+* "I want to be able to read the whole site on my phone and or tablet." 
+  * For the User Story about reading the website on a phone and tablet, it is entirely durable. The User can read and navigate through the content no matter the screen size.
 
   * Tablet view:
   ![Home](documentation/testing-screenshots/hometablet.png)
@@ -250,15 +250,16 @@ These are the result after testing the finctions on the website that was impleme
   ![Sign-up](documentation/testing-screenshots/phonesignup.png)
 
 * "I want to see picture of work done by other members"
-  * The User Story about seeing pictures of the work done by members, the users can do that through the websites Galley page. 
+  * The users can see picture of other club members through the websites Galley page. 
+
   ![Gallery-top](documentation/testing-screenshots/gallery-firefox.png) ![Gallery-section](documentation/testing-screenshots/gallery-section.png)
 
 ### Unfixed Bugs 
-There were two bug that I was not able to fix during this project
+There were two bugs that I was not able to fix during this project.
 
-* The google font ‘Molle’ do not render on safari or internet mobile apps. A solution to this could be to download the font and upload it to the repository.
+* The google font ‘Molle’ does not render on safari or internet apps. A solution to this could be to download the font and upload it to the repository.
 
-* The scroll function does not work on Safari or internet mobile apps. A solution to this could be that I have to fix the scroll element in the code with some extra values. 
+* The scroll function does not work on Safari or internet mobile apps. A solution to this could be fixing the scroll element in the code with some extra values. 
 
 * I am aware of the warning from the HTML Validator about the Quote Section.
 
@@ -284,7 +285,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ### Content 
 
-* All the information and text given are ficional and made up by the developer for sole purpose to this project.
+* All the information and text given are fictional and made up by the developer for the sole purpose of this project.
 * The fonts for the website are taken from [Google-fonts](https://fonts.google.com/)
 * The icons in the footer are taken from [Fontawesome](https://fontawesome.com/)
 * Information and instruction about the favicon was given by my mentor Tim Nelson
@@ -311,7 +312,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ### Acknowledgements 
 
-I would like to give acknowledgments to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me alot and gave great support during this project. 
-Tim helped me alot with getting started with the project and gave me great feedback on my choice of color, how to link the navigation menu to the when section of the website and tried his best to help me when there was a bug in my code while testing the responsiveness of the website. 
-The Code Intitute Tutors Kevin and Ed helped me alot with how I could fix my structure to work as I wanted it to. Ed gave me a great article about felx element that helped me a lot, see content credit list.
-During this project I also looked back on the course material, when I wanted to refresh my memorie on something or got stuck on a problem. 
+I want to give acknowledgments to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me a lot and provided great support during this project. 
+Tim helped me a lot when getting started with the project. He gave me great feedback on my choice of color, how to link the navigation menu to the when section of the Website and tried his best to help me when there was a bug in my code while testing the Website's responsiveness. 
+The Code Institute Tutors Kevin and Ed helped me fix the Website's structure to work as I wanted it to be. Ed gave me a great article about flex-element that helped me a lot; see content credit list.
+During this project, I also looked back on the course material when I wanted to refresh my memory or got stuck on a problem. 
