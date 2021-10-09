@@ -204,6 +204,9 @@ These are the result after testing the finctions on the website that was impleme
 * "I want clear information about time, meetings and where the club is located" 
   * #### Google Maps 
     The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
+    ![Map-zoom](documententation/testing-screenshots/mapzoom.png) 
+    ![map-newtab](documentation/testing-screenshots/mapnewtab.png)
+
 
 * "I want a simple and easy sign up form with relevent infromation"
   * #### The Sign Up
@@ -216,12 +219,35 @@ These are the result after testing the finctions on the website that was impleme
 * "I want links to relevent social media platforms" 
   * #### Social Media icons links
     All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
+    * Facebook: 
+    ![Facebook](documentation/testing-screenshots/facebook.png)
+
+    *Instagram:
+    ![Instagram](documentation/testing-screenshots/instagram.png)
+
+    *Spotify:
+    ![Spotify](documentation/testing-screenshots/spotify.png)
 
 * "I want to be able to read the whole site on my phone and/or tablet" 
   * For the User Story about reading the website on a phone and/or tablet, it is fully durable. For more information see the section about Responsiveness. 
+  * Tablet view:
+  ![Home](documentation/testing-screenshots/hometablet.png)
+  ![When](documentation/testing-screenshots/whentablet.png)
+  ![Where](documentation/testing-screenshots/safari-and-tablet-view.png)
+  ![Gallery](documentation/testing-screenshots/tabletgallery.png)
+  ![Sign-up](documentation/testing-screenshots/signuptablet.png)
+
+  * Phone view: 
+  ![Home](documentation/testing-screenshots/phonehome.png)
+  ![Quote](documentation/testing-screenshots/quotephone.png)
+  ![When](documentation/testing-screenshots/whenphone.png)
+  ![Where](documentation/testing-screenshots/mapfooterphone.png)
+  ![Gallery](documentation/testing-screenshots/galleryphone.png)
+  ![Sign-up](documentation/testing-screenshots/phonesignup.png)
 
 * "I want to see picture of work done by other members"
   * The User Story about seeing pictures of the work done by members, the users can do that through the websites Galley page. 
+  ![Gallery-top](documentation/testing-screenshots/gallery-firefox.png) ![Gallery-section](documentation/testing-screenshots/gallery-section.png)
 
 ### Unfixed Bugs 
 There were two bug that I was not able to fix during this project
