@@ -142,6 +142,8 @@ Another tool used during development and testing was Unicorn Revealer, which hel
 
 To see and test the websites performance, I used Lighthouse, which gave me an updated report if to see how well my accessibility where for the website. This was used, together with Dev Tools when I needed to change and choose the colour of the website. The last test results where these: 
 
+![Lighthouse](documentation/testing-screenshots/lighthouse.png)
+
 ### Browser Compatibility
 
 * Chrome
