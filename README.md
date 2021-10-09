@@ -24,10 +24,10 @@ The design of the Website is minimalistic with warm colors to create a sophistic
 The layout has a flow of sections on top of each other. The sections are divided into two divisions next to each other. The only exceptions are the Quote Section and the Gallery Section, which consist of one area only. This layout makes it easy for the user to view the content and understand the content on each section.
 When viewed on a smaller device, the division gets a vertical layout to make it easier for the viewer to read the content on the screen. See Wireframe Section for pictures of the layout idea.
 
-### Colour Scheme 
+### Color Scheme 
 
 The colors chosen for the website are a burgundy-red #5c0b1d, a warm pink #b26f6c and a light pink #fff7f3 as the background color. I chose these because they go well with each other and make a good contrast when put together.
-I used the Color Website to find the correct hex value and matching colors.
+I used the [ColoSpace](https://mycolor.space/) Website to find the correct hex value and matching colors.
 
 ### Typography 
 
@@ -295,6 +295,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 * Used [Autoprefixer](https://autoprefixer.github.io/) for my CSS code
 * Used this [Article](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) to fix my footer for screens size over 992px
 * I used this [css-tricks article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for writing some of my CSS code 
+* The [ColoSpace](https://mycolor.space/) Website. Used to find the colors of the Website.
 
 ### Media
 
