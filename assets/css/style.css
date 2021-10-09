@@ -649,7 +649,7 @@ footer {
         width: 100%;
         column-count: 1;
         object-fit: contain;
-        padding: 0 auto;
+        padding: 0;
     }
 
     .gallery img {
@@ -787,7 +787,7 @@ footer {
         width: 100%;
         column-count: 1;
         object-fit: contain;
-        padding: 0 auto;
+        padding: 0;
     }
 
     .gallery img {
@@ -822,7 +822,7 @@ footer {
 /* Header */
 
     #menu {
-        margin: 20px 30px ;
+        margin: 20px 30px;
     }
 
 /* Home Page */
