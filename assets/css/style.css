@@ -579,7 +579,7 @@ footer {
                 column-count: 2;
         -o-object-fit: contain;
            object-fit: contain;
-        padding: 0 auto;
+        padding: 0;
     }
 
 /* Sign Up Page */
