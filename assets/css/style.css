@@ -521,9 +521,23 @@ footer {
 
 /* Media Queries */
 
-/* Media Querie for screen size min-width 1200px and up */
-@media screen and (min-width: 1200px) {
+/* Media Querie for screen size min-width 992px and up */
+@media screen and (min-width: 992px) {
     
+/* Body */
+
+    body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+/* Footer */
+
+    footer {
+        margin-top: auto;
+    }
+
 /* Sign Up Page */
 
     .sign-up-left h2 {
