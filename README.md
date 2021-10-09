@@ -113,19 +113,51 @@ The technologies used to develop this project are following:
 * Auto Prefixer: Was used at the end of the project to give my CSS code some extra properties when used on different browsers.  
 
 ## Testing
+Testing done for the website was done both manually and automatically. 
+
+For manual testing I always had a tab open with the preview of the website. To check up on my code and see if worked as I wanted. During the development of the website, I used Dev Tools to see how the code would respond if I added or change properties or value to it. Dev Tools was also used to check for responsiveness when decreasing or increasing the screen size. 
+Another tool used during development and testing was Unicorn Revealer, which helped me see if any content where being outside its container. 
+
+To see and test the websites performance, I used Lighthouse, which gave me an updated report if to see how well my accessibility where for the website. This was used, together with Dev Tools when I needed to change and choose the colour of the website. The last test results where these: 
+
+### Functions
+
+I also tested all the implemented function to the website on three different browsers, these are the functions tested:
+
+* #### The logo in the header
+The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
+
+* #### The Navigation bar/ Menu 
+When the user navigates through the menu it takes the user to the top of the assigned page. 
+
+* #### Scroll function for When in the Navigation bar
+When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
+
+* #### Google Maps 
+The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
+
+* #### The Sign Up
+The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. 
+
+* #### Social Media icons links
+All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
 
 ### Browser Compatibility
 
-* Chrome 
-
-* Safari 
+* Chrome
+  * The website works with well in Chrome and have full browser compatibility. The layout and all the functions that are applied to the website response as it should. All the pages load its content accordingly. 
 
 * Firefox
+  * The website works well in Firefox and have full browser compatibility. The layout and all the functions response as it should. All the pages load its content accordingly. 
+
+* Safari 
+  * The website works well in Safari. The layout and most of the function works as they should. Safari does not seem to render the Google font ‘Molle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given scroll attribute given to the When button in the menu, but it takes you to the given destination on the website.
 
 ### Code Validation
+For automatically testing the WC3 Validator and Jigsaw Validator was used on the code.
 
 * HTML
- * The code has one warning, which is that the Quote section lacks a h-element, when passing through the offical [WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
+ * The code have no form of errors but it has one warning, which is that the Quote section lacks a h-element, when passing through the offical [WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
 
 * CSS
  * No errors where found when passing through the offical [(Jigsaw)-validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=svs)
