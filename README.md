@@ -88,6 +88,8 @@ Here are my wireframes for the project.
 
 ### Features Left to Implement
 
+Here are some features that would be great to implement in the futer to keep the website updated to the user:
+
 * Add a section with a news board, like blog post or forum
 * Creat a gallery with gallery album, so when selecting an album it opens to a new page displaying all images in that album.
 
