@@ -3,7 +3,7 @@
 Artsalta is a website for anyone interested and/or looking for an arts club located in Älta. This website is created to reach out and give users information about the club. 
 The information provided by the page will tell the user all they need to know about what the club does, when they meet up, where they are located, how to sign up to join and contact the club. The Website also provides information that shows the user some of the work done by members through a gallery page with images from the event. 
 
-Will add amiresponsive image here 
+![Am-I-Responsive](documentation/testing-screenshots/am-i-responsive.png)
 
 ## User Stories
 
@@ -20,6 +20,11 @@ When creating and developing the design for the website these User Stories was t
 ## UX 
 
 The design of the website is minimalistic with a warm colours to create a sofisticated website that is clean and have focus on the shared and relevant information to the user. The design should lead the user through the website and make it easy for them to navigate. The design is based on the given User Stories and the goals that Arts in Älta have by launching a website.
+
+
+### Layout 
+The layout has a flow of sections on top of each other. These sections are divided in to two divisions next to each other. The only exception are the Quote Section and the Gallery Section. This layoutt makes it easy for the user to view the content and understand what each section is about.
+When viewed on a smaller device the division gets an vertically layout, to make it easier for the viewer to read the content on the screen. See Wireframe Section for picture of the layout idea.
 
 ### Colour Scheme 
 
