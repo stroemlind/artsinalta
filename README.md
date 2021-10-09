@@ -145,12 +145,15 @@ To see and test the websites performance, I used Lighthouse, which gave me an up
 
 * Chrome
   * The website works with well in Chrome and have full browser compatibility. The layout and all the functions that are applied to the website response as it should. All the pages load its content accordingly. 
+  ![Chrome](documentation/testing-screen-shots/desktopview.png)
 
 * Firefox
   * The website works well in Firefox and have full browser compatibility. The layout and all the functions response as it should. All the pages load its content accordingly. 
+  ![Firefox](documentation/testing-screen-shots/firefoxview.png)
 
 * Safari 
   * The website works well in Safari. The layout and most of the function works as they should. Safari does not seem to render the Google font ‘Molle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given scroll attribute given to the When button in the menu, but it takes you to the given destination on the website.
+  ![Safari](documentation/testing-screen-shots/safari-view.png)
 
 ### Code Validation
 For automatically testing the WC3 Validator and Jigsaw Validator was used on the code.
