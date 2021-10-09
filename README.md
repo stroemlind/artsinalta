@@ -146,6 +146,8 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ## Credits 
 
+I would like to give credit to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me alot during this project.
+
 ### Content 
 
 * All the information and text given are ficional and made up by the developer for sole purpose to this project.
@@ -157,6 +159,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 * For my code with Media Queries I looked at the project "Love Running"
 * Used [Autoprefixer](https://autoprefixer.github.io/) for my CSS code
 * Used this [Article](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) to fix my footer for screens size over 992px
+* I used this [css-tricks article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for writing some of my CSS code 
 
 ### Media
 
