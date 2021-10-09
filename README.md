@@ -274,6 +274,6 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 ### Acknowledgements 
 
 I would like to give acknowledgments to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me alot and gave great support during this project. 
-Tim helped me alot with getting started with the project and gave me great feedback on my choice of color, and tried his best to help me when there was a bug in my code while testing the responsiveness of the website. 
+Tim helped me alot with getting started with the project and gave me great feedback on my choice of color, how to link the navigation menu to the when section of the website and tried his best to help me when there was a bug in my code while testing the responsiveness of the website. 
 The Code Intitute Tutors Kevin and Ed helped me alot with how I could fix my structure to work as I wanted it to. Ed gave me a great article about felx element that helped me a lot, see content credit list.
 During this project I also looked back on the course material, when I wanted to refresh my memorie on something or got stuck on a problem. 
