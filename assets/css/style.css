@@ -861,3 +861,38 @@ footer {
     }
 
 }
+
+/* Media Querie for screen size 320 an down */
+@media screen and (max-width: 320px) {
+    
+/* Home Page */
+/* Where Section */
+
+    #where {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #where-left, #where-right {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #where-right h2 {
+        margin: 130px 0 0 0;
+    }
+
+    #where-right p {
+        margin: 0 0 40px 0;
+    }
+
+/* Footer */
+
+    .social-media {
+        font-size: 250%;
+        align-items: center;
+    }
+}
