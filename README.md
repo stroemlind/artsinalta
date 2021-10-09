@@ -56,14 +56,13 @@ Here are my wireframes for the project.
   * The header is featured at the top of the page and has the navigation nested inside it.
   * The header shows the name of the club and the websites navigation menu. It uses the chosen google fonts and colours for the website.
 
-![Header-and-navigation-menu](documentation/testing-screenshots/header-and-nav-menu.png)
-
-* Navigation (See picture above)
+* Navigation
   * The navigation is featured inside the header at the top of the page, which shows the most important sections of the website.
   * To the left is a link that is connected to the clubs logo ”Arts in Älta”, and links to the top of the homepage.
   * To the right are the other four navigation links. These are: Home, Gallery, When and Sign-up. The Gallery and Sign-up link will take the user to a separate page of the website. The Home link will take the user to the same page as the logo ”Arts in Älta does, while the When link will take the user to the When section on the Home page.
   * The navigation links to the right, creates a simple menu that clearly tells the user where they will be directed when clicked on. They have an easy to read font and each link are surrounded by a border to make it more visibly for the user.
 
+  ![Header-and-navigation-menu](documentation/testing-screenshots/header-and-nav-menu.png)
 
 * About Section 
   * The About section gives the user details about what kind of club “arts in Älta” is and what they offer as a member.
@@ -159,7 +158,11 @@ When a user selects the When button in the menu, the index page will load first 
 The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
 
 * #### The Sign Up
-The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. 
+The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. See images below.
+
+![Sign-up-name](documantation/testing-screenshots/test-signupform-name.png)
+![Sign-up-phone](documantation/testing-screenshots/test-signupform-phonenumber.png)
+![Sign-up-email](documantation/testing-screenshots/test-signupform-email.png)
 
 * #### Social Media icons links
 All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
@@ -189,6 +192,15 @@ For automatically testing the WC3 Validator and Jigsaw Validator was used on the
 The website response to the flow when increasing or decreasing the screen size. The content flow in an order to make the layout and content easy to follow for the user when using different screen size. 
 When the screen size decreases the layout re-arrange itself to go from a layout with a row look to a layout with a column look. This is to make the user experience more comfortable for the user. The content also re-size itself to fit the screen size and view. 
 As can be seen bellow 
+
+* Website viewed from a laptop screen size
+  
+
+* Website viewed from a tablet screen size
+  ![Tablet](documantation/testing-screenshots/safari-and-tablet-view.png)
+
+* Website viewed from a phone screen size 
+  ![Phone](documantation/testing-screenshots/gallery-responsive-firefox.png)
 
 ### Tested User Stories
 
