@@ -89,20 +89,28 @@ Here are my wireframes for the project.
 ### Features Left to Implement
 
 Here are some features that would be great to implement in the futer to keep the website updated to the user:
-
 * Add a section with a news board, like blog post or forum
 * Creat a gallery with gallery album, so when selecting an album it opens to a new page displaying all images in that album.
 
 ## Technologies Used
 
-For this project I have used the following technologies 
-* HTML
-* CSS 
-* GitHub 
-* GitPod 
-* Dev Tools 
-* Unicorn Revealer 
-* Auto Prefixer 
+The technologies used to develop this project are following: 
+ 
+* HTML: HTML5 was used to create the core structure of the website.
+
+* CSS: CSS was used to style all the pages on the website.
+
+* GitHub: GitHub were used to store my repository and GitHub Pages was used to deployed the website. 
+
+* GitPod: GitPod was used as the develpoment enviorment for developing my code during this project.
+
+* Git: Git was used to ensure that the project would have backups and all the version pushed to GitHub during the development of ths project.
+
+* Dev Tools: Dev Tools was used to look over the developent of the website and try different approches to problems that would occur during the process. 
+
+* Unicorn Revealer: Unicorn Revealer was used to find bugs, especially during the process of making the website responsive.
+
+* Auto Prefixer: Was used at the end of the project to give my CSS code some extra properties when used on different browsers.  
 
 ## Testing
 
