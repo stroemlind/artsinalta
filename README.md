@@ -99,7 +99,7 @@ Here are my wireframes for the project.
   * The Gallery page features a total of 7 pictures and a heading with information about the page. 
   * The Gallery page gives the user visual information about what the members of the club has produced and what a member can do and/or learn at the club.
 
-  ![Gallery](documentation/testing-screenshots/gallery-top-page) ![Gallery](documentation/testing-screenshots/gallery-section.png)
+  ![Gallery](documentation/testing-screenshots/gallery-top-page.png) ![Gallery](documentation/testing-screenshots/gallery-section.png)
   
 * The Sign up Page
   * The Sign up page gives the user information about the membership through a list and then the opportunity to sign up as a member. 
@@ -155,17 +155,19 @@ To see and test the websites performance, I used Lighthouse, which gave me an up
   ![Firefox](documentation/testing-screenshots/firefoxview.png)
 
 * Safari 
-  * The website works well in Safari. The layout and most of the function works as they should. Safari does not seem to render the Google font ‘Molle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given scroll attribute given to the When button in the menu, but it takes you to the given destination on the website.
-  ![Safari](documentation/testing-screenshots/safari-view.png)
+  * The website works well in Safari. The layout and most of the function works as they should. Safari does not seem to render the Google font ‘Molscroll attribute given to the When button in the menu, but it takes you to the given destination on the website.
+  ![Safari](documentation/testing-scrle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given eenshots/safari-view.png)
 
 ### Code Validation
 For automatically testing the WC3 Validator and Jigsaw Validator was used on the code.
 
 * HTML
  * The code have no form of errors but it has one warning, which is that the Quote section lacks a h-element, when passing through the offical [WC3-validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html)
+ ![HTML](documentation/testing-screenshots/htmlvalidator.png)
 
 * CSS
  * No errors where found when passing through the offical [(Jigsaw)-validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fstroemlind.github.io%2Fartsinalta%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=svs)
+ ![CSS](documentation/testing-screenshots/cssvalidator.png)
 
 ### Responsiveness 
 
