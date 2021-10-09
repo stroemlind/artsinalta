@@ -85,6 +85,9 @@ Here are my wireframes for the project.
 
 ### Features Left to Implement
 
+* Add a section with a news board, like blog post or forum
+* Creat a gallery with gallery album, so when selecting an album it opens to a new page displaying all images in that album.
+
 ## Technologies Used
 
 For this project I have used the following technologies 
