@@ -1,50 +1,48 @@
 # Arts in Älta
 
-Artsalta is a website for anyone interested and/or looking for an arts club located in Älta. This website is created to reach out and give users information about the club. 
-The information provided by the page will tell the user all they need to know about what the club does, when they meet up, where they are located, how to sign up to join and contact the club. The Website also provides information that shows the user some of the work done by members through a gallery page with images from the event. 
+Arts in Älta is a website for anyone interested in or looking for an art club located in Älta. The Website was created to reach out and give users information about the club. 
+The information provided by the page will tell the user all they need to know about what the club does, when they meet up, where they are located, how to sign up to become a member, and how to contact the club. The Website also provides information to show the users some of the work done by members through a gallery page. 
 
 ![Am-I-Responsive](documentation/testing-screenshots/am-i-responsive.png)
 
-## User Stories
-
-When creating and developing the design for the website these User Stories was taken under consideration:
+When creating and developing the design for the Website, these User Stories was taken under consideration:
 
 ### User Stories
-* "I want to easily navigate through the website"
-* "I want a simple and easy sign up form with relevent infromation"
-* "I want to be able to read the whole site on my phone and/or tablet" 
-* "I want clear information about time, meetings and where the club is located" 
-* "I want links to relevent social media platforms" 
-* "I want to see picture of work done by other members"
+* "I want to navigate through the Website easily."
+* "I want a simple and easy sign-up form with relevant information."
+* "I want to be able to read the whole site on my phone and or tablet." 
+* "I want clear information about time, meetings, and where the club can be found." 
+* "I want links to relevant social media platforms." 
+* "I want to see pictures of work done by other members."
 
 ## UX 
 
-The design of the website is minimalistic with a warm colours to create a sofisticated website that is clean and have focus on the shared and relevant information to the user. The design should lead the user through the website and make it easy for them to navigate. The design is based on the given User Stories and the goals that Arts in Älta have by launching a website.
-
+The design of the Website is minimalistic with warm colors to create a sophisticated website that is clean and has a focus on the shared and relevant information to the user. The design should lead the user through the Website and make it easy for them to navigate. The design is based on the given User Stories and the goals that Arts in Älta have by launching a website.
 
 ### Layout 
 
-The layout has a flow of sections on top of each other. These sections are divided in to two divisions next to each other. The only exception are the Quote Section and the Gallery Section. This layoutt makes it easy for the user to view the content and understand what each section is about.
-When viewed on a smaller device the division gets an vertically layout, to make it easier for the viewer to read the content on the screen. See Wireframe Section for picture of the layout idea.
+The layout has a flow of sections on top of each other. The sections are divided into two divisions next to each other. The only exceptions are the Quote Section and the Gallery Section, which consist of one area only. This layout makes it easy for the user to view the content and understand the content on each section.
+When viewed on a smaller device, the division gets a vertical layout to make it easier for the viewer to read the content on the screen. See Wireframe Section for pictures of the layout idea.
 
 ### Colour Scheme 
 
-The colours chosen for the website are a burgndy-red #5c0b1d, a warm pink #b26f6c and a light pink #fff7f3 as background colour. I choese these because the go well with each other and make a good contrast when put togehter.
+The colors chosen for the website are a burgundy-red #5c0b1d, a warm pink #b26f6c and a light pink #fff7f3 as the background color. I chose these because they go well with each other and make a good contrast when put together.
+I used the Color Website to find the correct hex value and matching colors.
 
 ### Typography 
 
-To keep the design of the website minimalistic with a fun twist I used a clean simple font for the overall text on the website, and for the Headings a more playful font. I importet two fonts from Google fonts: 
+To keep the Website's design minimalistic with a fun twist, I used a clean, simple font for the overall text on the Website. For the Headings, I chose a more playful font. I imported the two fonts from Google fonts: 
 * [Monserrat](https://fonts.google.com/specimen/Montserrat?query=mon)
 * [Molle](https://fonts.google.com/specimen/Molle?query=moll)
 
-The social icons in the footer are imported from Fontawesome, they fonts used are: 
+The social icons in the footer were imported from Fontawesome. The fonts used are: 
 * [Facebook](https://fontawesome.com/v5.15/icons/facebook-square?style=brands)
 * [Instagram](https://fontawesome.com/v5.15/icons/instagram?style=brands)
 * [Spotify](https://fontawesome.com/v5.15/icons/spotify?style=brands)
 
 ### Wireframes 
 
-Here are my wireframes for the project. 
+These are the drawn wireframes for the project: 
 ![LandingPage wireframe](documentation/wireframes/landingpage-wireframe.jpg)
 ![Gallery wireframe](documentation/wireframes/gallery-wireframe.jpg)
 ![Sign-up wireframe](documentation/wireframes/signup-wireframe.jpg)
@@ -55,37 +53,37 @@ Here are my wireframes for the project.
 
 * Header
   * The header is featured at the top of the page and has the navigation nested inside it.
-  * The header shows the name of the club and the websites navigation menu. It uses the chosen google fonts and colours for the website.
+  * The header shows the name of the club and the Website’s navigation menu. It uses the chosen google fonts and colors for the Website.
 
 * Navigation
-  * The navigation is featured inside the header at the top of the page, which shows the most important sections of the website.
-  * To the left is a link that is connected to the clubs logo ”Arts in Älta”, and links to the top of the homepage.
-  * To the right are the other four navigation links. These are: Home, Gallery, When and Sign-up. The Gallery and Sign-up link will take the user to a separate page of the website. The Home link will take the user to the same page as the logo ”Arts in Älta does, while the When link will take the user to the When section on the Home page.
-  * The navigation links to the right, creates a simple menu that clearly tells the user where they will be directed when clicked on. They have an easy to read font and each link are surrounded by a border to make it more visibly for the user.
+  * The navigation menu is featured inside the header at the top of the page, which shows the most important sections of the Website.
+  * To the left is a link with the club's logo, ”Arts in Älta”, and links to the top of the homepage.
+  * To the right are the other four navigation links. These are Home, Gallery, When, and Sign-up. The Gallery and Sign-up link will take the user to a separate page of the Website. The Home link will take the user to the same page as the logo Arts in Älta does, while the When link will take the user to the When section on the Home page.
+  * The navigation links create a simple menu that tells the user where they will be direct when selected. They have an easy-to-read font, and a border surrounds each link to make it more visible for the user.
 
   ![Header-and-navigation-menu](documentation/testing-screenshots/header-and-nav-menu.png)
 
 * About Section 
-  * The About section gives the user details about what kind of club “arts in Älta” is and what they offer as a member.
-  * This section gives the user information about what the club offers in a list element.
+  * The About Section gives the user details about what kind of club “arts in Älta” is and what they offer as a member.
+  * This Section gives the user information about what the club offers in a list element.
 
   ![About](documentation/testing-screenshots/about-section.png)
 
 * Quote Section 
   * The Quote section is featured to give the page a break from the structure. 
-  * It gives the user a slogan and/or short text that describes the club.
+  * It gives the user a slogan that describes the club's motto.
 
   ![Quote](documentation/testing-screenshots/quote-section.png)
 
 * When Section 
-  * The When section gives the user clear information about most important to know about each meeting, like which day they meet, at what time and if there is any additional information that is good to know. 
-  * The information in this section is shown in a table to make it easier for the user to read the information. 
+  * The When Section gives the user precise information about the most important to know about each meeting, like which day they meet, at what time, and any additional information that is good to know. 
+  * The information is shown in a table to make it easier for the users to read the information. 
 
   ![When](documentation/testing-screenshots/when-section.png)
 
 * Where Section 
-  * The Where section gives the user information on where the club is located through text and a map. 
-  * The map is an embedded google maps map, that make sit easy for the user locate the club and see if there is any parking or public transportation to the location.
+  * The Where section gives the user information on the club's location through text and a map. 
+  * The map is an embedded google maps map that makes it easy for the user to locate the club and see possible parking options or public transportation to the location.
 
   ![Where](documentation/testing-screenshots/where-section.png)
 
@@ -97,14 +95,14 @@ Here are my wireframes for the project.
 
 * The Gallery Page 
   * The Gallery page features a total of 7 pictures and a heading with information about the page. 
-  * The Gallery page gives the user visual information about what the members of the club has produced and what a member can do and/or learn at the club.
+  * The Gallery page gives the user visual information about what the club members have produced and what a member can do and learn.
 
   ![Gallery](documentation/testing-screenshots/gallery-top-page.png) ![Gallery](documentation/testing-screenshots/gallery-section.png)
   
-* The Sign up Page
-  * The Sign up page gives the user information about the membership through a list and then the opportunity to sign up as a member. 
-  * The form collects the name, phone number and email address to the person who is signing up as a member. 
-  * The sign up form gives the user accessibility and an easy way to sign up as a member.
+* The Sign-up Page
+  * The Sign-up page gives the user information about the membership through a list and then the opportunity to sign up as a member. 
+  * The form collects the name, phone number, and email address of the person signing up as a member. 
+  * The sign-up form gives the user accessibility and an easy way to sign up as a member.
 
   ![Sign-up](documentation/testing-screenshots/sign-up-page.png)
 
@@ -195,11 +193,15 @@ These are the result after testing the finctions on the website that was impleme
   * #### The logo in the header
     The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
 
+    ![Logo](documentation/testing-screenshots/logo.jpg)
+
   * The Navigation bar/ Menu 
     When the user navigates through the menu it takes the user to the top of the assigned page. 
 
   * Scroll function for When in the Navigation bar
     When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
+
+    ![Nav-menu](documentation/testing-screenshots/navmenu.jpg)
 
 * "I want clear information about time, meetings and where the club is located" 
   * #### Google Maps 
@@ -231,6 +233,7 @@ These are the result after testing the finctions on the website that was impleme
 
 * "I want to be able to read the whole site on my phone and/or tablet" 
   * For the User Story about reading the website on a phone and/or tablet, it is fully durable. For more information see the section about Responsiveness. 
+
   * Tablet view:
   ![Home](documentation/testing-screenshots/hometablet.png)
   ![When](documentation/testing-screenshots/whentablet.png)
