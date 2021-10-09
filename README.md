@@ -7,6 +7,9 @@ Will add amiresponsive image here
 
 ## User Stories
 
+When creating and developing the design for the website these User Stories was taken under consideration:
+
+### User Stories
 * "I want to easily navigate through the website"
 * "I want a simple and easy sign up form with relevent infromation"
 * "I want to be able to read the whole site on my phone and/or tablet" 
@@ -16,7 +19,7 @@ Will add amiresponsive image here
 
 ## UX 
 
-The design of the website is minimalistic with a warm colours to create a sofisticated website that is clean and have focus on the shared and relevant information to the user. The design should lead the user through the website and make it easy for them to navigate.
+The design of the website is minimalistic with a warm colours to create a sofisticated website that is clean and have focus on the shared and relevant information to the user. The design should lead the user through the website and make it easy for them to navigate. The design is based on the given User Stories and the goals that Arts in Älta have by launching a website.
 
 ### Colour Scheme 
 
