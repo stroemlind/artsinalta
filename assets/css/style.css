@@ -521,6 +521,19 @@ footer {
 
 /* Media Queries */
 
+/* Media Querie for screen size min-width 1200px and up */
+@media screen and (min-width: 1200px) {
+    
+/* Sign Up Page */
+
+    .sign-up-left h2 {
+        padding-top: 220px;
+    }
+    #section-form {
+        margin-top: 50px;
+    }
+}
+
 /* Media Querie for screens size 992px and down*/ 
 @media screen and (max-width: 992px) {
 
