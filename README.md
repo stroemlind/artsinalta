@@ -141,32 +141,6 @@ Another tool used during development and testing was Unicorn Revealer, which hel
 
 To see and test the websites performance, I used Lighthouse, which gave me an updated report if to see how well my accessibility where for the website. This was used, together with Dev Tools when I needed to change and choose the colour of the website. The last test results where these: 
 
-### Functions
-
-I also tested all the implemented function to the website on three different browsers, these are the functions tested:
-
-* #### The logo in the header
-The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
-
-* #### The Navigation bar/ Menu 
-When the user navigates through the menu it takes the user to the top of the assigned page. 
-
-* #### Scroll function for When in the Navigation bar
-When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
-
-* #### Google Maps 
-The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
-
-* #### The Sign Up
-The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. See images below.
-
-![Sign-up-name](documentation/testing-screenshots/test-signupform-name.png)
-![Sign-up-phone](documentation/testing-screenshots/test-signupform-phonenumber.png)
-![Sign-up-email](documentation/testing-screenshots/test-signupform-email.png)
-
-* #### Social Media icons links
-All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
-
 ### Browser Compatibility
 
 * Chrome
@@ -193,16 +167,51 @@ The website response to the flow when increasing or decreasing the screen size. 
 When the screen size decreases the layout re-arrange itself to go from a layout with a row look to a layout with a column look. This is to make the user experience more comfortable for the user. The content also re-size itself to fit the screen size and view. 
 As can be seen bellow 
 
-* Website viewed from a desktop screen size
+* #### Website viewed from a desktop screen size
+
   ![desktop](documentation/testing-screenshots/desktopview.png)
 
-* Website viewed from a tablet screen size
+* #### Website viewed from a tablet screen size
+
   ![Tablet](documentation/testing-screenshots/safari-and-tablet-view.png)
 
-* Website viewed from a phone screen size 
+* #### Website viewed from a phone screen size 
+
   ![Phone](documentation/testing-screenshots/gallery-responsive-firefox.png)
 
 ### Tested User Stories
+
+"I want a simple and easy sign up form with relevent infromation"
+* "I want to be able to read the whole site on my phone and/or tablet" 
+* "I want clear information about time, meetings and where the club is located" 
+* "I want links to relevent social media platforms" 
+* "I want to see picture of work done by other members"
+
+### Functions
+
+I also tested all the implemented function to the website on three different browsers, these are the functions tested:
+
+* #### The logo in the header
+The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
+
+* #### The Navigation bar/ Menu 
+When the user navigates through the menu it takes the user to the top of the assigned page. 
+
+* #### Scroll function for When in the Navigation bar
+When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
+
+* #### Google Maps 
+The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
+
+* #### The Sign Up
+The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. See images below.
+
+![Sign-up-name](documentation/testing-screenshots/test-signupform-name.png)
+![Sign-up-phone](documentation/testing-screenshots/test-signupform-phonenumber.png)
+![Sign-up-email](documentation/testing-screenshots/test-signupform-email.png)
+
+* #### Social Media icons links
+All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
 
 ### Unfixed Bugs 
 There were two bug that I was not able to fix during this project
