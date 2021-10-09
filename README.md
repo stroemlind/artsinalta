@@ -160,9 +160,9 @@ The embedded Google Map works well in all tested browser. The user can use the c
 * #### The Sign Up
 The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. See images below.
 
-![Sign-up-name](documantation/testing-screenshots/test-signupform-name.png)
-![Sign-up-phone](documantation/testing-screenshots/test-signupform-phonenumber.png)
-![Sign-up-email](documantation/testing-screenshots/test-signupform-email.png)
+![Sign-up-name](documentation/testing-screenshots/test-signupform-name.png)
+![Sign-up-phone](documentation/testing-screenshots/test-signupform-phonenumber.png)
+![Sign-up-email](documentation/testing-screenshots/test-signupform-email.png)
 
 * #### Social Media icons links
 All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
@@ -193,14 +193,14 @@ The website response to the flow when increasing or decreasing the screen size. 
 When the screen size decreases the layout re-arrange itself to go from a layout with a row look to a layout with a column look. This is to make the user experience more comfortable for the user. The content also re-size itself to fit the screen size and view. 
 As can be seen bellow 
 
-* Website viewed from a laptop screen size
-  
+* Website viewed from a desktop screen size
+  ![desktop](documentation/testing-screenshots/desktopview.png)
 
 * Website viewed from a tablet screen size
-  ![Tablet](documantation/testing-screenshots/safari-and-tablet-view.png)
+  ![Tablet](documentation/testing-screenshots/safari-and-tablet-view.png)
 
 * Website viewed from a phone screen size 
-  ![Phone](documantation/testing-screenshots/gallery-responsive-firefox.png)
+  ![Phone](documentation/testing-screenshots/gallery-responsive-firefox.png)
 
 ### Tested User Stories
 
