@@ -123,6 +123,9 @@ For this project I have used the following technologies
 
 ### Unfixed Bugs 
 
+* The chosen fonts do not work in safari
+* I am aware of the warning from the HTML Validator 
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
