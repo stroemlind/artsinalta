@@ -183,21 +183,21 @@ As can be seen bellow
 
 These are the result after testing the finctions on the website that was implementet by the User Stories. 
 
-#### "I want to easily navigate through the website"
-* #### The logo in the header
-The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
+* "I want to easily navigate through the website"
+  * #### The logo in the header
+    The logo on the left side of the header “Arts in Älta” is linked to the given landing page of the website. When selected it takes the user to the top of the Home page.
 
-* #### The Navigation bar/ Menu 
-When the user navigates through the menu it takes the user to the top of the assigned page. 
+  * The Navigation bar/ Menu 
+    When the user navigates through the menu it takes the user to the top of the assigned page. 
 
-* #### Scroll function for When in the Navigation bar
-When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
+  * Scroll function for When in the Navigation bar
+    When a user selects the When button in the menu, the index page will load first and then scroll smoothly down to the When section of the Home page. However, this application does not render well in with the Safari browser or when used on a mobile device. 
 
-* #### "I want clear information about time, meetings and where the club is located" 
+* "I want clear information about time, meetings and where the club is located" 
   * #### Google Maps 
     The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
 
-* #### "I want a simple and easy sign up form with relevent infromation"
+* "I want a simple and easy sign up form with relevent infromation"
   * #### The Sign Up
     The form works in all browsers. It will only submit the given content if all required fields are written correctly. If not, it will give the user a notification on that specific field and ask them to write in the right form of information. See images below.
 
@@ -205,14 +205,14 @@ When a user selects the When button in the menu, the index page will load first 
     ![Sign-up-phone](documentation/testing-screenshots/test-signupform-phonenumber.png)
     ![Sign-up-email](documentation/testing-screenshots/test-signupform-email.png)
 
-* #### "I want links to relevent social media platforms" 
+* "I want links to relevent social media platforms" 
   * #### Social Media icons links
     All three Social Media icons works well an all tested browsers. When selected each link open in a new tab for the content given to them.
 
-* #### "I want to be able to read the whole site on my phone and/or tablet" 
+* "I want to be able to read the whole site on my phone and/or tablet" 
   * For the User Story about reading the website on a phone and/or tablet, it is fully durable. For more information see the section about Responsiveness. 
 
-* #### "I want to see picture of work done by other members"
+* "I want to see picture of work done by other members"
   * The User Story about seeing pictures of the work done by members, the users can do that through the websites Galley page. 
 
 ### Unfixed Bugs 
