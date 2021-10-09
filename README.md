@@ -23,6 +23,7 @@ The design of the website is minimalistic with a warm colours to create a sofist
 
 
 ### Layout 
+
 The layout has a flow of sections on top of each other. These sections are divided in to two divisions next to each other. The only exception are the Quote Section and the Gallery Section. This layoutt makes it easy for the user to view the content and understand what each section is about.
 When viewed on a smaller device the division gets an vertically layout, to make it easier for the viewer to read the content on the screen. See Wireframe Section for picture of the layout idea.
 
