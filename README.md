@@ -123,7 +123,7 @@ The technologies used to develop this project are following:
 
 * GitHub: GitHub were used to store my repository and GitHub Pages was used to deployed the website. 
 
-* GitPod: GitPod was used as the develpoment enviorment for developing my code during this project.
+* Gitpod: GitPod was used as the develpoment enviorment for developing my code during this project.
 
 * Git: Git was used to ensure that the project would have backups and all the version pushed to GitHub during the development of ths project.
 
@@ -244,8 +244,6 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 ## Credits 
 
-I would like to give credit to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me alot during this project.
-
 ### Content 
 
 * All the information and text given are ficional and made up by the developer for sole purpose to this project.
@@ -272,3 +270,10 @@ I would like to give credit to my mentor Tim Nelson and the Code Institute Tutor
  * [Img-7](https://www.pexels.com/sv-se/foto/person-hander-konst-kreativ-4483093/)
 * The map for the where section is from [google maps](https://www.google.se/maps/place/Oxelv%C3%A4gen+42,+138+30+%C3%84lta/@59.2563055,18.1743694,17z/data=!3m1!4b1!4m5!3m4!1s0x465f7923c226d0db:0x7013aa4e4516b29!8m2!3d59.2563028!4d18.1765582)
 * The favicon is taken from [pexels](https://www.pexels.com/sv-se/foto/design-farg-ljus-utrustning-2303796/)
+
+### Acknowledgements 
+
+I would like to give acknowledgments to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me alot and gave great support during this project. 
+Tim helped me alot with getting started with the project and gave me great feedback on my choice of color, and tried his best to help me when there was a bug in my code while testing the responsiveness of the website. 
+The Code Intitute Tutors Kevin and Ed helped me alot with how I could fix my structure to work as I wanted it to. Ed gave me a great article about felx element that helped me a lot, see content credit list.
+During this project I also looked back on the course material, when I wanted to refresh my memorie on something or got stuck on a problem. 
