@@ -166,9 +166,7 @@ For automatically testing the WC3 Validator and Jigsaw Validator was used on the
 
 The website response to the flow when increasing or decreasing the screen size. The content flow in an order to make the layout and content easy to follow for the user when using different screen size. 
 When the screen size decreases the layout re-arrange itself to go from a layout with a row look to a layout with a column look. This is to make the user experience more comfortable for the user. The content also re-size itself to fit the screen size and view. 
-As can be seen bellow:  
-
-
+As can be seen bellow 
 
 ### Tested User Stories
 
