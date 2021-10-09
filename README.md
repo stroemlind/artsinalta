@@ -156,6 +156,7 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 * To get the structure of the gallery on the Gallery page right, I got help from Code Institute tutor Ed and through this [article](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
 * For my code with Media Queries I looked at the project "Love Running"
 * Used [Autoprefixer](https://autoprefixer.github.io/) for my CSS code
+* Used this [Article](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14) to fix my footer for screens size over 992px
 
 ### Media
 
