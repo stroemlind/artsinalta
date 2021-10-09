@@ -845,6 +845,11 @@ footer {
     #when-left h2 {
         margin: 50px 0;
     }
+/* Gallery Page */
+
+    #big-img img {
+        margin: 40px;
+    }
 
 /* Footer */
 
@@ -887,6 +892,13 @@ footer {
     #where-right p {
         margin: 0 0 40px 0;
     }
+
+/* Gallery Page */
+    
+    #big-img img {
+        margin: 40px; 
+    }
+
 
 /* Footer */
 
