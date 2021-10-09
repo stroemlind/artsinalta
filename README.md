@@ -206,6 +206,7 @@ These are the result after testing the finctions on the website that was impleme
     The embedded Google Map works well in all tested browser. The user can use the commandos for zooming, get direction to the place and open in a new tab if selected.
     ![Map-zoom](documententation/testing-screenshots/mapzoom.png) 
     ![map-newtab](documentation/testing-screenshots/mapnewtab.png)
+    ![Map-firefox](documentation/testing-screenshots/mapfirefox.png)
 
 
 * "I want a simple and easy sign up form with relevent infromation"
