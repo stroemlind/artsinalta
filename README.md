@@ -315,5 +315,6 @@ Alternatively, if using Gitpod, you can [click here](https://gitpod.io/#https://
 
 I want to give acknowledgments to my mentor Tim Nelson and the Code Institute Tutors Ed and Kevin. They have helped me a lot and provided great support during this project. 
 Tim helped me a lot when getting started with the project. He gave me great feedback on my choice of color, how to link the navigation menu to the when section of the Website and tried his best to help me when there was a bug in my code while testing the Website's responsiveness. 
+Tim helped me write the deployment part of the README.md file. He wrote the correct structure of that part with all the links and information.
 The Code Institute Tutors Kevin and Ed helped me fix the Website's structure to work as I wanted it to be. Ed gave me a great article about flex-element that helped me a lot; see content credit list.
 During this project, I also looked back on the course material when I wanted to refresh my memory or got stuck on a problem. 
