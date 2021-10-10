@@ -153,8 +153,8 @@ To see and test the Website's performance, I used Lighthouse, which gave me an u
   ![Firefox](documentation/testing-screenshots/firefoxview.png)
 
 * Safari 
-  * The website works well in Safari. The layout and most of the function works as they should. Safari does not seem to render the Google font ‘Molscroll attribute given to the When button in the menu, but it takes you to the given destination on the website.
-  ![Safari](documentation/testing-scrle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given eenshots/safari-view.png)
+  * The website works well in Safari. The layout and most of the function works as they should. Safari does not seem to render the Google font ‘Molle’ the way I have imported it or with the help of the Autoprefixer. The browser does not support the given scroll attribute given to the When button in the menu, but it takes you to the given destination on the website.
+  ![Safari](documentation/testing-screenshots/safari-view.png)
 
 ### Code Validation
 For automatically testing, the WC3 Validator and Jigsaw Validator was used.
